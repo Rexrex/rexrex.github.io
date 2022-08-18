@@ -155,8 +155,8 @@ experiences:
         Lisbon and Universidade Lusófona. As a coordination member I am in charge of operating, managing and participating in the group. I've had many different roles, from Community Manager to Head of the General Assembly along with the Head of the Marketing Team.
         
 projects:
-    title: Projects
-    intro:
+     - title: Side Projects
+    intro: |
       Even since I started my Master's, my love game dev has been growing and I always enjoyed participating in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
       :While most are present in [my itch.io page] (https://thedarkryze.itch.io/) here are a few highlights, these are in ordered from oldest to most recent
     Games:
