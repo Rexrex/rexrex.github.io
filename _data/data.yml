@@ -122,14 +122,13 @@ education:
         of Engineering, encouraging students' mobility to other European schools and to the labour market, which seeks this type of professionals.
         
 experiences:
-    - role: Researcher
-      time: 2016 - Present
-      company: GAIPS, INESC-ID, Lisbon
-      details: |
-        You
-          - Bullet point
-          - Bullet point
-          
+    #- role: Researcher
+    #  time: 2016 - Present
+    #  company: GAIPS, INESC-ID, Lisbon
+    #  details: |
+    #    You
+    #      - Bullet point
+    #      - Bullet point        
           
     - role: Software Developper
       time: 2016-Present
@@ -183,7 +182,7 @@ experiences:
        
        Our team is composed of around 50 members with all kinds of backgrounds, experience, courses,
        and universities. We have members from Instituto Superior Técnico, the Faculty of Fine Arts of the
-       University of         Lisbon and Universidade Lusófona. As a coordination member I am in charge of 
+       University of Lisbon and Universidade Lusófona. As a coordination member I am in charge of 
        operating, managing and participating in the group. I've had many different roles, from Community Manager
        to Head of the General Assembly along with the Head of the Marketing Team.
         
@@ -192,20 +191,21 @@ projects:
     intro: >
       Even since I started my Master's, my love game dev has been growing and I always enjoyed participating
       in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
-      While most are present in [my itch.io page](https://thedarkryze.itch.io/) here are a few highlights, 
-      these are in ordered from oldest to most recent
+      While most are present in 
+      [itch.io page](https://thedarkryze.itch.io/)
+      here are a few highlights, these are in ordered from oldest to most recent
     assignments:
       - title: Don't Stress
         link: https://globalgamejam.org/2017/games/dont-stress
         tagline: "Anxious Brian wanders into a lost space ship. Help him find his wait out and Don't Stress"
-#        year: 2017
-#        team size: 5
+        year: 2017
+        team size: 5
     
       - title: RGBuilder
         link: https://globalgamejam.org/2020/games/rgbuilder-4
         tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
-#        year: 2020
-#        team size: 6
+        year: 2020
+        team size: 6
     
       - title: Smashcart Ultra
         link: https://gamedevtecnico.itch.io/smashcart-ultra
