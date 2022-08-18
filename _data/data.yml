@@ -210,8 +210,8 @@ publications:
       - title: "CiF-CK: An architecture for social NPCS in commercial games"
         link: "https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf"
         authors: Manuel Guimaraes, Pedro Santos, Arnav Jhala
-        conference: "2078 IEEE Conference on Computational Intelligence and Games (CIG)"
- #       year: 2017
+        conference: "2017 IEEE Conference on Computational Intelligence and Games (CIG)"
+        year: 2017
         
  #          The best way to keep up with all of my publications is through [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
  #         However, here I will highlight a few of them, once again, from old to most recent           
