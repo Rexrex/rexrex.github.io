@@ -209,49 +209,56 @@ experiences:
 publications:
     title: Publications
     intro: |
+    Yooooooooooooooooooooo
  #          The best way to keep up with all of my publications is through [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
-           However, here I will highlight a few of them, once again, from old to most recent
+ #         However, here I will highlight a few of them, once again, from old to most recent           
     papers:
-      - title: "CiF-CK: An architecture for social NPCS in commercial games"
-        link: "https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf"
-        authors: Manuel Guimaraes, Pedro Santos, Arnav Jhala
-        conference: "2078 IEEE Conference on Computational Intelligence and Games (CIG)"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+        
+ #   papers:
+ #     - title: "CiF-CK: An architecture for social NPCS in commercial games"
+ #       link: "https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf"
+ #       authors: Manuel Guimaraes, Pedro Santos, Arnav Jhala
+ #       conference: "2078 IEEE Conference on Computational Intelligence and Games (CIG)"
  #       year: 2017
 
-      - title: "A virtual agent toolkit for serious games developers"
-        link: "https://research.ou.nl/ws/files/8349959/VAT_CIG.pdf"
-        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, João Dias, Pedro A Santos, Kam Star, Ben Hirsh, Ellis Spice, Rob Kommeren
-        conference: "2018 IEEE Conference on Computational Intelligence and Games (CIG)"
+#      - title: "A virtual agent toolkit for serious games developers"
+#        link: "https://research.ou.nl/ws/files/8349959/VAT_CIG.pdf"
+#        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, João Dias, Pedro A Santos, Kam Star, Ben Hirsh, Ellis Spice, Rob Kommeren
+#        conference: "2018 IEEE Conference on Computational Intelligence and Games (CIG)"
 #        year: 2018
 
-     - title: "An Accessible Toolkit for the Creation of Socio-EmotionalAgents."
-        link: "https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2357.pdf"
-        authors: Manuel Guimarães, Samuel Mascarenhas, Rui Prada, Pedro Alexandre Santos, João Dias
-        conference: "2019 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
+#     - title: "An Accessible Toolkit for the Creation of Socio-EmotionalAgents."
+#        link: "https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2357.pdf"
+#        authors: Manuel Guimarães, Samuel Mascarenhas, Rui Prada, Pedro Alexandre Santos, João Dias
+#        conference: "2019 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
 #        year: 2019
         
-     - title: "Artificial intelligence moving serious gaming: Presenting reusable game AI components"
-        link: "https://link.springer.com/article/10.1007/s10639-019-09968-2"
-        authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro, Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
-        journal: "Education and Information Technologies" 
+#     - title: "Artificial intelligence moving serious gaming: Presenting reusable game AI components"
+#        link: "https://link.springer.com/article/10.1007/s10639-019-09968-2"
+#        authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro, Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
+#        journal: "Education and Information Technologies" 
 #        year: 2020
 
-     - title: "The impact of virtual reality in the social presence of a virtual agent"
-        link: "https://dl.acm.org/doi/abs/10.1145/3383652.3423879"
-        authors: Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Arnav Jhala, Samuel Mascarenhas
-        conference: "Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents (IVA)"
+ #    - title: "The impact of virtual reality in the social presence of a virtual agent"
+ #       link: "https://dl.acm.org/doi/abs/10.1145/3383652.3423879"
+ #       authors: Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Arnav Jhala, Samuel Mascarenhas
+ #       conference: "Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents (IVA)"
 #        year: 2021
 
-     - title: "FAtiMA Toolkit: Toward an Accessible Tool for the Development of Socio-emotional Agents"
-        link: "https://dl.acm.org/doi/abs/10.1145/3510822"
-        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Ana Paiva
- #       journal: "ACM Transactions on Interactive Intelligent Systems (TiiS)"       
+ #    - title: "FAtiMA Toolkit: Toward an Accessible Tool for the Development of Socio-emotional Agents"
+ #       link: "https://dl.acm.org/doi/abs/10.1145/3510822"
+ #       authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Ana Paiva
+ ##       journal: "ACM Transactions on Interactive Intelligent Systems (TiiS)"       
  #       year: 2022
 
-     - title: "Towards Explainable Social Agent Authoring tools: A case study on FAtiMA-Toolkit"
-       link: "https://arxiv.org/abs/2206.03360"
-       authors: Manuel Guimarães, Joana Campos, Pedro A. Santos, João Dias, Rui Prada
-       conference: Awaiting review
+  #   - title: "Towards Explainable Social Agent Authoring tools: A case study on FAtiMA-Toolkit"
+  #     link: "https://arxiv.org/abs/2206.03360"
+  #     authors: Manuel Guimarães, Joana Campos, Pedro A. Santos, João Dias, Rui Prada
+   #    conference: Awaiting review
   #     year: 2022
         
       
