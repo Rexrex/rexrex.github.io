@@ -156,9 +156,9 @@ experiences:
         
 projects:
     title: Projects
-    intro: >
-      Since I love game dev and creating something, I have participated in quite a few gamejams which eventually culminated into the creation of Game Dev Técnico. 
-      While most are present in my itch.io page: https://thedarkryze.itch.io/ here are a few highlights, these are in ordered from oldest to most recent:
+    intro:
+      Even since I started my Master's, my love game dev has been growing and I always enjoyed participating in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
+      :While most are present in [my itch.io page] (https://thedarkryze.itch.io/) here are a few highlights, these are in ordered from oldest to most recent
     Games:
     
       - title: Don't Stress
