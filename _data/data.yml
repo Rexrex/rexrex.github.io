@@ -65,6 +65,8 @@ education:
       time: 2017 - Present
       details: |
         The PhD in Computer Science and Engineering (PCSE) is included in the 3rd cycle of Higher Education, according to the Bologna Agreement. 
+        
+        
         After completing their PhD, graduates of this program are expected to have acquired the ability to: systematically understand a particular 
         field of study and widen the frontiers of knowledge with their original research to the highest standards of quality and integrity; 
         critically analyze, evaluate and synthesize new complex ideas; communicate with peers, the broader academic community, and society at large about the topics in which they are specialized; promote academic, professional, technological, social or cultural progress in our knowledge-based society. 
@@ -78,6 +80,7 @@ education:
       details: |
         Técnico MSc graduates in Computer Science and Engineering may pursue a career in industrial or service sectors such as banks, insurance companies, software 
         development companies, tourism, multimedia or culture, as well as public bodies.
+        
         The role of a computing engineer involves the development, management and maintenance of software, while seeking to develop increasingly faster and more comprehensive solutions.
         
         My Master's specialization is on Artificial Intelligent and Games. 
@@ -97,15 +100,7 @@ experiences:
       time: 2016 - Present
       company: GAIPS, INESC-ID, Lisbon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        You
           - Bullet point
           - Bullet point
           
@@ -114,11 +109,7 @@ experiences:
       time: 2016-Present
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Yoo
           - Bullet point
           - Bullet point
           
@@ -149,8 +140,11 @@ experiences:
       company: Game Dev Técnico, Lisbon
       details: |
        I am one of the founders of Game Dev Técnico: a student group from Instituto Superior Técnico of Lisbon University located on Campus Taguspark, we were founded in January of 2020.
+       
        We aim to provide students at our university with the resources and mentorship required to develop their own games in an extracurricular and not for profit way. 
+       
        Our objective is to act as an accelerator inside the university, filling a gap in the offered courses and allowing students to go through all the steps of game development, but not forgetting the academic spirit participating in international competitions called game jams.
+       
        Our team is composed of around 50 members with all kinds of backgrounds, experience, courses, and universities. We have members from Instituto Superior Técnico, the Faculty of Fine Arts of the University of
         Lisbon and Universidade Lusófona. As a coordination member I am in charge of operating, managing and participating in the group. I've had many different roles, from Community Manager to Head of the General Assembly along with the Head of the Marketing Team.
         
@@ -213,10 +207,11 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "CiF-CK: An architecture for social NPCS in commercial games"
+        link: "https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf"
+        authors: Manuel Guimaraes, Pedro Santos, Arnav Jhala
+        conference: "2078 IEEE Conference on Computational Intelligence and Games (CIG)"
+ #       year: 2017
         
  #          The best way to keep up with all of my publications is through [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
  #         However, here I will highlight a few of them, once again, from old to most recent           
