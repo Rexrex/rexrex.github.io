@@ -43,20 +43,33 @@ career-profile:
     summary: |
      I'm a PhD Student at Instituto Superior Técnico and I am currently working as a researcher at GAIPS, INESC-ID in Lisbon, Portugal.
      
-     In 2016 I received finished my Master's Degree in Information Systems and Computer Engineering from the Instituto Superior Técnico, University of Lisbon in Portugal. 
+     In 2016 I received finished my Master's Degree in Information Systems and Computer Engineering 
+     from the Instituto Superior Técnico, University of Lisbon in Portugal. 
      My Master's Thesis was about empowering computer controlled characters with Social awareness and decision making. 
-     The end result was a mod for the popular video game The Elder Scrolls V: Skyrim. The mod quickly gained popularity and was discussed around the internet.
+     The end result was a mod for the popular video game The Elder Scrolls V: Skyrim. The mod quickly gained popularity 
+     and was discussed around the internet.
      
-     Immediately after finishing my Masters, I started working in the RAGE Project as a researcher, since December 2016 until the end of the project, in January 2019, particularly, in the development of FAtiMA Toolkit. 
-     During that year I was awarded a PhD scholarship by Universidade de Lisboa to finish my PhD thesis, the scholarship started in January 2019. 
-     The scholarship allowed me to work on my thesis while consulting for on-going projects within the GAIPS research group such as the Slice Project. 
+     Immediately after finishing my Masters, I started working in the RAGE Project as a researcher, since December 2016 
+     until the end of the project, in January 2019, particularly, in the development of FAtiMA Toolkit. 
+     During that year I was awarded a PhD scholarship by Universidade de Lisboa to finish my PhD thesis, 
+     the scholarship started in January 2019. 
+     The scholarship allowed me to work on my thesis while consulting for on-going projects within the GAIPS 
+     research group such as the Slice Project. 
      
-     In 2019, while working in Slice, I also attended the 2nd International Summer School of Artificial Intelligence and Games, published several papers and taught Artificial Intelligence in Games practical lessons’ from September to January (semester) of 2019, 2020, 2021 until today (2022)
+     In 2019, while working in Slice, I also attended the 2nd International Summer 
+     School of Artificial Intelligence and Games, published several papers and taught Artificial 
+     Intelligence in Games practical lessons’ from September to January (semester) of 2019, 2020, 2021 
+     until today (2022)
      
-     My research interests are in artificial intelligence, virtual agents, affective computing, social interaction and their application in games. Outside of research 
+     My research interests are in artificial intelligence, virtual agents, affective computing, social interaction
+     and their application in games. Outside of research 
      
-     I am also quite making games and has participated in (and won) several Game Jams. Additionally, I am is one of the founders and coordinators of Game Dev Técnico: a student’s group focused “on providing students at our university with the resources and mentorship required to develop their own games in an extracurricular and not for profit way.” 
-     My PhD Thesis is about creating a framework that can create help the authoring task of creating believable Social Intelligent Agents using a Data Driven Approach. 
+     I am also quite making games and has participated in (and won) several Game Jams. Additionally, 
+     I am is one of the founders and coordinators of Game Dev Técnico: a student’s group focused “on providing 
+     students at our university with the resources and mentorship required to develop their own games in an extracurricular 
+     and not for profit way.” 
+     My PhD Thesis is about creating a framework that can create help the authoring task of creating believable Social
+     Intelligent Agents using a Data Driven Approach. 
 
 
 education:
@@ -64,24 +77,37 @@ education:
       university: Instituto Superior Técnico, University of Lisbon
       time: 2017 - Present
       details: |
-        The PhD in Computer Science and Engineering (PCSE) is included in the 3rd cycle of Higher Education, according to the Bologna Agreement. 
+        The PhD in Computer Science and Engineering (PCSE) is included in the
+        3rd cycle of Higher Education, according to the Bologna Agreement. 
         
+        After completing their PhD, graduates of this program are expected 
+        to have acquired the ability to: systematically understand a particular 
+        field of study and widen the frontiers of knowledge with their 
+        original research to the highest standards of quality and integrity; 
+        critically analyze, evaluate and synthesize new complex ideas; 
+        communicate with peers, the broader academic community,
+        and society at large about the topics in which they are specialized;
+        promote academic, professional, technological, social or cultural progress
+        in our knowledge-based society. 
         
-        After completing their PhD, graduates of this program are expected to have acquired the ability to: systematically understand a particular 
-        field of study and widen the frontiers of knowledge with their original research to the highest standards of quality and integrity; 
-        critically analyze, evaluate and synthesize new complex ideas; communicate with peers, the broader academic community, and society at large about the topics in which they are specialized; promote academic, professional, technological, social or cultural progress in our knowledge-based society. 
-        
-        During my PhD I had coursers specialized in Affective Computing and Reinforcement Learning and am currently finishing my Thesis based on Human Computer Interaction, 
+        During my PhD I had coursers specialized in Affective Computing 
+        and Reinforcement Learning and am currently finishing my Thesis
+        based on Human Computer Interaction, 
         Authoring Tools and how to improve these using Data-Driven approaches.
 
     - degree: MSc in Computer Science - Bologna Master's Degree in Information Systems and Computer Engineering
       university: Instituto Superior Técnico, University of Lisbon
       time: 2014 - 2016
       details: |
-        Técnico MSc graduates in Computer Science and Engineering may pursue a career in industrial or service sectors such as banks, insurance companies, software 
-        development companies, tourism, multimedia or culture, as well as public bodies.
+        Técnico MSc graduates in Computer Science and Engineering may pursue a 
+        career in industrial or service sectors such as banks,
+        insurance companies, software 
+        development companies, tourism, multimedia or culture, as well as
+        public bodies.
         
-        The role of a computing engineer involves the development, management and maintenance of software, while seeking to develop increasingly faster and more comprehensive solutions.
+        The role of a computing engineer involves the development, management
+        and maintenance of software, while seeking to develop
+        increasingly faster and more comprehensive solutions.
         
         My Master's specialization is on Artificial Intelligent and Games. 
       
@@ -117,9 +143,13 @@ experiences:
       time: 2019 - Present
       company: Instituto Superior Técnico, University of Lisbon
       details: |
-        I have been the (in 2019, 2022, 2021 and currently 2022) assistant teacher of the course: Artificial Intelligence in Games of the Games specialization of the Computer Science Master’s of Instituto Superior Técnico.
+        I have been the (in 2019, 2022, 2021 and currently 2022) assistant teacher of the course: 
+        Artificial Intelligence in Games of the Games specialization of the Computer Science Master’s of 
+        Instituto Superior Técnico.
         My responsibilities as an Assistant Teacher include:
-            - Preparing the Artificial Intelligence in Games Projects (using Unity as a platform students have to implement several different projects regarding content such as Local Movement, Pathfinding, Decision Making, Interactive Narrative and Deep Learning)
+            - Preparing the Artificial Intelligence in Games Projects (using Unity as a platform students have to
+            implement several different projects regarding content such as Local Movement, Pathfinding, Decision Making,
+            Interactive Narrative and Deep Learning)
             - Prepare and Teach practical classes
             - Perform Project Discussions.
             - Grade the student's projects
@@ -131,7 +161,9 @@ experiences:
       time: 2017-2020
       company: Laboratório de Jogos do IST, Lisbon
       details: |
-        My job as an active member and collaborator of Laboratório de Jogos do IST started in 2017, it was my responsibility to organize Talks (such as Talk n' Plays), Events and help the students of the Games specialization of the Computer Science Master’s of Instituto Superior Técnico in general.
+        My job as an active member and collaborator of Laboratório de Jogos do IST started in 2017, 
+        it was my responsibility to organize Talks (such as Talk n' Plays), Events and help the students of the Games specialization 
+        of the Computer Science Master’s of Instituto Superior Técnico in general.
       link: https://www.facebook.com/LabJogosIST/videos/596751937798318
       
       
@@ -139,20 +171,29 @@ experiences:
       time: 2020-Present
       company: Game Dev Técnico, Lisbon
       details: |
-       I am one of the founders of Game Dev Técnico: a student group from Instituto Superior Técnico of Lisbon University located on Campus Taguspark, we were founded in January of 2020.
+       I am one of the founders of Game Dev Técnico: a student group from Instituto Superior Técnico of
+       Lisbon University located on Campus Taguspark, we were founded in January of 2020.
        
-       We aim to provide students at our university with the resources and mentorship required to develop their own games in an extracurricular and not for profit way. 
+       We aim to provide students at our university with the resources and mentorship required to 
+       develop their own games in an extracurricular and not for profit way. 
        
-       Our objective is to act as an accelerator inside the university, filling a gap in the offered courses and allowing students to go through all the steps of game development, but not forgetting the academic spirit participating in international competitions called game jams.
+       Our objective is to act as an accelerator inside the university, filling a gap in the offered 
+       courses and allowing students to go through all the steps of game development, but not 
+       forgetting the academic spirit participating in international competitions called game jams.
        
-       Our team is composed of around 50 members with all kinds of backgrounds, experience, courses, and universities. We have members from Instituto Superior Técnico, the Faculty of Fine Arts of the University of
-        Lisbon and Universidade Lusófona. As a coordination member I am in charge of operating, managing and participating in the group. I've had many different roles, from Community Manager to Head of the General Assembly along with the Head of the Marketing Team.
+       Our team is composed of around 50 members with all kinds of backgrounds, experience, courses,
+       and universities. We have members from Instituto Superior Técnico, the Faculty of Fine Arts of the
+       University of         Lisbon and Universidade Lusófona. As a coordination member I am in charge of 
+       operating, managing and participating in the group. I've had many different roles, from Community Manager
+       to Head of the General Assembly along with the Head of the Marketing Team.
         
 projects:
     title: Projects
     intro: >
-      Even since I started my Master's, my love game dev has been growing and I always enjoyed participating in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
-      While most are present in [my itch.io page] (https://thedarkryze.itch.io/) here are a few highlights, these are in ordered from oldest to most recent
+      Even since I started my Master's, my love game dev has been growing and I always enjoyed participating
+      in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
+      While most are present in [my itch.io page](https://thedarkryze.itch.io/) here are a few highlights, 
+      these are in ordered from oldest to most recent
     assignments:
       - title: Don't Stress
         link: https://globalgamejam.org/2017/games/dont-stress
@@ -160,50 +201,51 @@ projects:
         year: 2017
         team size: 5
     
-#     - title: RGBuilder
-#        link: https://globalgamejam.org/2020/games/rgbuilder-4
-#        tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
-        #year: 2020
-        #team size: 6
+      - title: RGBuilder
+        link: https://globalgamejam.org/2020/games/rgbuilder-4
+        tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
+        year: 2020
+        team size: 6
     
- #     - title: Smashcart Ultra
- #       link: https://gamedevtecnico.itch.io/smashcart-ultra
- #       tagline: "Smashcart Ultra is a low-poly shopping-cart simulator game where you get the chance to (or at least try to) control a crazy cart!"
-        #year: 2020
-        #team size: 5
+      - title: Smashcart Ultra
+        link: https://gamedevtecnico.itch.io/smashcart-ultra
+        tagline: "Smashcart Ultra is a low-poly shopping-cart simulator game where you get the chance to (or at least try to) control a crazy cart!"
+        year: 2020
+        team size: 5
         
-  #   - title: Timber
-  #      link: https://thedarkryze.itch.io/timber
-  #      tagline: "Timber is a game about a tribe of characters rebuilding their home in the woods." The game was made for a jam where players could only click in one button
-        #year: 2020
-        #team size: 4    
+      - title: Timber
+        link: https://thedarkryze.itch.io/timber
+        tagline: "Timber is a game about a tribe of characters rebuilding their home in the woods." The game was made for a jam where players could only click in one button
+        year: 2020
+        team size: 4    
         
-  #  - title: Anglership
-  #      link: https://ratuspro.itch.io/anglership
-  #      tagline: "Play as an underwater explorer that tries to find mysterious artefacts lost in the depths of the sea. 
-   #               This work is a submission for the Black and White Jam. The game only uses 2 colours; black or white."
-        #year: 2021
-        #team size: 5    
+      - title: Anglership
+        link: https://ratuspro.itch.io/anglership
+        tagline: "Play as an underwater explorer that tries to find mysterious artefacts lost in the depths of the sea. 
+                  This work is a submission for the Black and White Jam. The game only uses 2 colours; black or white."
+        year: 2021
+        team size: 5    
         
- #   - title: Mc Pending's Pub
- #       link: https://antunes10.itch.io/mcpendingspub
- #       tagline: "You're a bartender in an Irish Pub and you need to keep your clients happy. Problems arise when the tv connection is 
- #       pending and your customers want to watch the game. Your job is to keep serving clients while also restoring the short-circuits within the pub. "
- #       #year: 2021
- #       #team size: 5 
+      - title: Mc Pending's Pub
+        link: https://antunes10.itch.io/mcpendingspub
+        tagline: "You're a bartender in an Irish Pub and you need to keep your clients happy. Problems arise when the tv connection is 
+        pending and your customers want to watch the game. Your job is to keep serving clients while also restoring the short-circuits within the pub. "
+        year: 2021
+        team size: 5 
         
- #   - title: Winds of Berkana
- #       link: https://gamedev.tecnico.ulisboa.pt/game_project/winds-of-berkana/
- #       tagline: "Winds of Berkana is a game that explores a beautiful fantasy world, a world of mountain ranges and ruins, 
- #       flying whales and floating islands. The player takes control of Herai, a small boy and last surviving human while he searches for the rest of his kind,
- #       through the remnants of a once ancient and magnanimous civilization."
-        #year: 2022
-        #team size: 10-12  
+      - title: Winds of Berkana
+        link: https://gamedev.tecnico.ulisboa.pt/game_project/winds-of-berkana/
+        tagline: "Winds of Berkana is a game that explores a beautiful fantasy world, a world of mountain ranges and ruins, 
+        flying whales and floating islands. The player takes control of Herai, a small boy and last surviving human while he searches for the rest of his kind,
+        through the remnants of a once ancient and magnanimous civilization."
+        year: 2022
+        team size: 10-12  
 
 publications:
     title: Publications
     intro: |
-      The best way to keep up with all of my publications is through [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
+      The best way to keep up with all of my publications is through
+      [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
       However, here I will highlight a few of them, once again, from old to most recent.    
     papers:
       - title: "CiF-CK: An architecture for social NPCS in commercial games"
@@ -215,7 +257,8 @@ publications:
         
       - title: "A virtual agent toolkit for serious games developers"
         link: "https://research.ou.nl/ws/files/8349959/VAT_CIG.pdf"
-        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, João Dias, Pedro A Santos, Kam Star, Ben Hirsh, Ellis Spice, Rob Kommeren
+        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, João Dias, Pedro A Santos,
+        Kam Star, Ben Hirsh, Ellis Spice, Rob Kommeren
         conference: "2018 IEEE Conference on Computational Intelligence and Games (CIG)"
         year: 2018
         
@@ -229,7 +272,9 @@ publications:
         
       - title: "Artificial intelligence moving serious gaming: Presenting reusable game AI components"
         link: "https://link.springer.com/article/10.1007/s10639-019-09968-2"
-        authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro, Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
+        authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, 
+        Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro,
+        Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
         journal: "Education and Information Technologies" 
         year: 2020
         
