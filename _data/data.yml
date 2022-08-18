@@ -218,23 +218,23 @@ publications:
         conference: "2018 IEEE Conference on Computational Intelligence and Games (CIG)"
         year: 2018
 
-#     - title: "An Accessible Toolkit for the Creation of Socio-EmotionalAgents"
-#       link: "https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2357.pdf"
-#        authors: Manuel Guimarães, Samuel Mascarenhas, Rui Prada, Pedro Alexandre Santos, João Dias
-#       conference: "2019 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
-#        year: 2019
-#        
-#     - title: "Artificial intelligence moving serious gaming: Presenting reusable game AI components"
-#        link: "https://link.springer.com/article/10.1007/s10639-019-09968-2"
-#        authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro, Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
-#        journal: "Education and Information Technologies" 
-#        year: 2020
+     - title: "An Accessible Toolkit for the Creation of Socio-EmotionalAgents"
+       link: "https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2357.pdf"
+       authors: Manuel Guimarães, Samuel Mascarenhas, Rui Prada, Pedro Alexandre Santos, João Dias
+       conference: "2019 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
+       year: 2019
+        
+     - title: "Artificial intelligence moving serious gaming: Presenting reusable game AI components"
+       link: "https://link.springer.com/article/10.1007/s10639-019-09968-2"
+       authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro, Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
+       journal: "Education and Information Technologies" 
+       year: 2020
 
-#     - title: "The impact of virtual reality in the social presence of a virtual agent"
-#        link: "https://dl.acm.org/doi/abs/10.1145/3383652.3423879"
-#        authors: Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Arnav Jhala, Samuel Mascarenhas
-#        conference: "Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents (IVA)"
-#        year: 2021
+     - title: "The impact of virtual reality in the social presence of a virtual agent"
+       link: "https://dl.acm.org/doi/abs/10.1145/3383652.3423879"
+       authors: Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Arnav Jhala, Samuel Mascarenhas
+       conference: "Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents (IVA)"
+       year: 2021
 
 #     - title: "FAtiMA Toolkit: Toward an Accessible Tool for the Development of Socio-emotional Agents"
 #        link: "https://dl.acm.org/doi/abs/10.1145/3510822"
