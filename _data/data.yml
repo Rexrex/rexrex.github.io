@@ -236,17 +236,17 @@ publications:
         conference: "Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents (IVA)"
         year: 2021
 
-#     - title: "FAtiMA Toolkit: Toward an Accessible Tool for the Development of Socio-emotional Agents"
-#        link: "https://dl.acm.org/doi/abs/10.1145/3510822"
-#        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Ana Paiva
-#        journal: "ACM Transactions on Interactive Intelligent Systems (TiiS)"       
-#        year: 2022
+      - title: "FAtiMA Toolkit: Toward an Accessible Tool for the Development of Socio-emotional Agents"
+        link: "https://dl.acm.org/doi/abs/10.1145/3510822"
+        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Ana Paiva
+        journal: "ACM Transactions on Interactive Intelligent Systems (TiiS)"       
+        year: 2022
 
-#     - title: "Towards Explainable Social Agent Authoring tools: A case study on FAtiMA-Toolkit"
-#       link: "https://arxiv.org/abs/2206.03360"
-#       authors: Manuel Guimarães, Joana Campos, Pedro A. Santos, João Dias, Rui Prada
-#       conference: Awaiting review
-#       year: 2022
+      - title: "Towards Explainable Social Agent Authoring tools: A case study on FAtiMA-Toolkit"
+        link: "https://arxiv.org/abs/2206.03360"
+        authors: Manuel Guimarães, Joana Campos, Pedro A. Santos, João Dias, Rui Prada
+        conference: Awaiting review
+        year: 2022
         
       
 skills:
