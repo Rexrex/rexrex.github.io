@@ -209,10 +209,10 @@ experiences:
 publications:
     title: Publications
     intro: |
-           "The best way to keep up with all of my publications is through Google Scholar: https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT 
-           However, here I will highlight a few of them, once again, from old to most recent"
+           The best way to keep up with all of my publications is through [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
+           However, here I will highlight a few of them, once again, from old to most recent
     papers:
-      - title: CiF-CK: An architecture for social NPCS in commercial games
+      - title: "CiF-CK: An architecture for social NPCS in commercial games"
         link: "https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf"
         authors: Manuel Guimaraes, Pedro Santos, Arnav Jhala
         conference: "2078 IEEE Conference on Computational Intelligence and Games (CIG)"
