@@ -148,17 +148,17 @@ experiences:
        Our team is composed of around 50 members with all kinds of backgrounds, experience, courses, and universities. We have members from Instituto Superior Técnico, the Faculty of Fine Arts of the University of
         Lisbon and Universidade Lusófona. As a coordination member I am in charge of operating, managing and participating in the group. I've had many different roles, from Community Manager to Head of the General Assembly along with the Head of the Marketing Team.
         
-#projects:
-#    title: Projects
-#    intro: >
-   #   Even since I started my Master's, my love game dev has been growing and I always enjoyed participating in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
-   #   While most are present in [my itch.io page] (https://thedarkryze.itch.io/) here are a few highlights, these are in ordered from oldest to most recent
-#    assignments:
-#      - title: Don't Stress
-#        link: https://globalgamejam.org/2017/games/dont-stress
-#        tagline: "Anxious Brian wanders into a lost space ship. Help him find his wait out and Don't Stress."
-        #year: 2017
-        #team size: 5
+projects:
+    title: Projects
+    intro: >
+      Even since I started my Master's, my love game dev has been growing and I always enjoyed participating in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
+      While most are present in [my itch.io page] (https://thedarkryze.itch.io/) here are a few highlights, these are in ordered from oldest to most recent
+    assignments:
+      - title: Don't Stress
+        link: https://globalgamejam.org/2017/games/dont-stress
+        tagline: "Anxious Brian wanders into a lost space ship. Help him find his wait out and Don't Stress."
+        year: 2017
+        team size: 5
     
 #     - title: RGBuilder
 #        link: https://globalgamejam.org/2020/games/rgbuilder-4
@@ -212,11 +212,13 @@ publications:
         conference: "2017 IEEE Conference on Computational Intelligence and Games (CIG)"
         year: 2017
         
+        
       - title: "A virtual agent toolkit for serious games developers"
         link: "https://research.ou.nl/ws/files/8349959/VAT_CIG.pdf"
         authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, João Dias, Pedro A Santos, Kam Star, Ben Hirsh, Ellis Spice, Rob Kommeren
         conference: "2018 IEEE Conference on Computational Intelligence and Games (CIG)"
         year: 2018
+        
 
       - title: "An Accessible Toolkit for the Creation of Socio-EmotionalAgents"
         link: "https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2357.pdf"
@@ -224,11 +226,13 @@ publications:
         conference: "2019 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
         year: 2019
         
+        
       - title: "Artificial intelligence moving serious gaming: Presenting reusable game AI components"
         link: "https://link.springer.com/article/10.1007/s10639-019-09968-2"
         authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro, Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
         journal: "Education and Information Technologies" 
         year: 2020
+        
 
       - title: "The impact of virtual reality in the social presence of a virtual agent"
         link: "https://dl.acm.org/doi/abs/10.1145/3383652.3423879"
@@ -236,17 +240,20 @@ publications:
         conference: "Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents (IVA)"
         year: 2021
 
+
       - title: "FAtiMA Toolkit: Toward an Accessible Tool for the Development of Socio-emotional Agents"
         link: "https://dl.acm.org/doi/abs/10.1145/3510822"
         authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, Pedro A Santos, João Dias, Ana Paiva
         journal: "ACM Transactions on Interactive Intelligent Systems (TiiS)"       
         year: 2022
+        
 
       - title: "Towards Explainable Social Agent Authoring tools: A case study on FAtiMA-Toolkit"
         link: "https://arxiv.org/abs/2206.03360"
         authors: Manuel Guimarães, Joana Campos, Pedro A. Santos, João Dias, Rui Prada
         conference: Awaiting review
         year: 2022
+        
         
       
 skills:
