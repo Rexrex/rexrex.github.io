@@ -257,8 +257,7 @@ publications:
         
       - title: "A virtual agent toolkit for serious games developers"
         link: "https://research.ou.nl/ws/files/8349959/VAT_CIG.pdf"
-        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, João Dias, Pedro A Santos,
-        Kam Star, Ben Hirsh, Ellis Spice, Rob Kommeren
+        authors: Samuel Mascarenhas, Manuel Guimarães, Rui Prada, João Dias, Pedro A Santos, Kam Star, Ben Hirsh, Ellis Spice, Rob Kommeren
         conference: "2018 IEEE Conference on Computational Intelligence and Games (CIG)"
         year: 2018
         
@@ -272,9 +271,7 @@ publications:
         
       - title: "Artificial intelligence moving serious gaming: Presenting reusable game AI components"
         link: "https://link.springer.com/article/10.1007/s10639-019-09968-2"
-        authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, 
-        Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro,
-        Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
+        authors: Wim Westera, Rui Prada, Samuel Mascarenhas, Pedro A Santos, João Dias, Manuel Guimarães, Konstantinos Georgiadis, Enkhbold Nyamsuren, Kiavash Bahreini, Zerrin Yumak, Chris Christyowidiasmoro, Mihai Dascalu, Gabriel Gutu-Robu, Stefan Ruseti
         journal: "Education and Information Technologies" 
         year: 2020
         
