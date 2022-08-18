@@ -28,52 +28,52 @@ sidebar:
         level: Professional
 
     interests:
+      - item: Research
+        link: https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT
+        
       - item: Game Development
-        link:
+        link: https://thedarkryze.itch.io/
+        
+      - item: Teaching
+        link: https://fenix.tecnico.ulisboa.pt/disciplinas/IAJ7/2020-2021/1-semestre/pagina-inicial
 
-      - item: Reading
-        link:
-
-      - item: Padel
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      This website is under construction
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Manuel Guimarães is a PhD Student at Instituto Superior Técnico and is currently working as a researcher at GAIPS, INESC-ID in Lisbon, Portugal.
+     In 2016 I received finished my Master's Degree in Information Systems and Computer Engineering from the Instituto Superior Técnico, University of Lisbon in Portugal. His Master's Thesis was about empowering computer controlled characters with Social awareness and decision making. The end result was a mod for the popular video game The Elder Scrolls V: Skyrim. The mod quickly gained popularity and was widely talked about around the world.
+     Immediately after finishing my Masters, Manuel started working in the RAGE Project as a researcher, since December 2016 until the end of the project, in January 2019, particularly, in the development of FAtiMA Toolkit. During that final year Manuel was awarded a PhD scholarship by Universidade de Lisboa to finish his thesis, the scholarship started in January 2019. 
+     The scholarship allowed me to work on work on my thesis while consulting for on-going projects within the GAIPS group such as the Slice Project. In 2019, while working in Slice, Manuel also attended the 2nd International Summer School of Artificial Intelligence and Games, published several papers and taught Artificial Intelligence in Games practical lessons’ from September to January (semester) of 2019, 2020 and 2021. Finally for all his work during the year (2019) Manuel was nominated for best PhD student of INESC-ID.
+     His research interests are in artificial intelligence, virtual agents, affective computing, social interaction and their application in games. Outside of research Manuel is interested in making games and has participated in (and won) several Game Jams. Additionally, he is one of the founders of Game Dev Técnico: a student’s group focused “on providing students at our university with the resources and mentorship required to develop their own games in an extracurricular and not for profit way.” 
+     In his PhD Manuel has been creating a framework that can create help the authoring task of creating believable Social Intelligent Agents using a Data Driven Approach. 
+
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Computer Science - Advanced Studies Diploma in Information Studies and Computer Engineering
+      university: Instituto Superior Técnico, University of Lisbon
+      time: 2017 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        The PhD in Computer Science and Engineering (PCSE) is included in the 3rd cycle of Higher Education, according to the Bologna Agreement. 
+        After completing their PhD, graduates of this program are expected to have acquired the ability to: systematically understand a particular field of study and widen the frontiers of knowledge with their original research to the highest standards of quality and integrity; critically analyze, evaluate and synthesize new complex ideas; communicate with peers, the broader academic community, and society at large about the topics in which they are specialized; promote academic, professional, technological, social or cultural progress in our knowledge-based society. 
+
+    - degree: MSc in Computer Science - Bologna Master's Degree in Information Systems and Computer Engineering
+      university: Instituto Superior Técnico, University of Lisbon
+      time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Técnico MSc graduates in Computer Science and Engineering may pursue a career in industrial or service sectors such as banks, insurance companies, software development companies, tourism, multimedia or culture, as well as public bodies.
+        The role of a computing engineer involves the development, management and maintenance of software, while seeking to develop increasingly faster and more comprehensive solutions.
+      
+    - degree: BSc in Computer Science - Bologna Degree in Information Systems and Computer Engineering
+      university: Instituto Superior Técnico, University of Lisbon
+      time: 2011 - 2014
+      details: |
+        Técnico's BSc in Computer Science offers the basic foundation for a capable Computer Science Engineer. The sound, basic fundamentals offered by the IST in computer science and engineering ensure that the professionals trained in this area will be prepared to adapt themselves to the permanent technological changes throughout their professional life. The chief objective of the Degree in Computer Science and Engineering (LEIC) is to offer students thorough knowledge in this area of Engineering, encouraging students' mobility to other european schools and to the labour market, which seeks this type of professionals.
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Researcher
+      time: 2016 - Present
+      company: GAIPS, INESC-ID, Lisbon
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -86,6 +86,8 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
+          
+          
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -97,17 +99,39 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          
+    - role: Assistant Teacher
+      time: 2019 - Present
+      company: Instituto Superior Técnico, University of Lisbon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I have been the (in 2019, 2022, 2021 and currently 2022) assistant teacher of the course: Artificial Intelligence in Games of the Games specialization of the Computer Science Master’s of Instituto Superior Técnico.
+        My responsibilities as an Assistant Teacher include:
+            - Preparing the Artificial Intelligence in Games Projects (using Unity as a platform students have to implement several different projects regarding content such as Local Movement, Pathfinding, Decision Making, Interactive Narrative and Deep Learning)
+            - Prepare and Teach practical classes
+            - Perform Project Discussions.
+            - Grade the student's projects
+        The work performed in the course granted me the "Excellence in Teaching Diploma of Instituto Superior Técnico" for 3 consecutive years, 2019-2021
+      link: https://diadotecnico.tecnico.ulisboa.pt/docentes-excelentes-20192020/?lang=en
+      
+
+    - role: Collaborator
+      time: 2017-2020
+      company: Laboratório de Jogos do IST, Lisbon
+      details: |
+        My job as an active member and collaborator of Laboratório de Jogos do IST started in 2017, it was my responsibility to organize Talks (such as Talk n' Plays), Events and help the students of the Games specialization of the Computer Science Master’s of Instituto Superior Técnico in general.
+      link: https://www.facebook.com/LabJogosIST/videos/596751937798318
+      
+      
+    - role: Coordinator
+      time: 2020-Present
+      company: Game Dev Técnico, Lisbon
+      details: |
+       I am one of the founders of Game Dev Técnico: a student group from Instituto Superior Técnico of Lisbon University located on Campus Taguspark, we were founded in January of 2020.
+       We aim to provide students at our university with the resources and mentorship required to develop their own games in an extracurricular and not for profit way. 
+       Our objective is to act as an accelerator inside the university, filling a gap in the offered courses and allowing students to go through all the steps of game development, but not forgetting the academic spirit participating in international competitions called game jams.
+       Our team is composed of around 50 members with all kinds of backgrounds, experience, courses, and universities. We have members from Instituto Superior Técnico, the Faculty of Fine Arts of the University of
+        Lisbon and Universidade Lusófona. As a coordination member I am in charge of operating, managing and participating in the group. I've had many different roles, from Community Manager to Head of the General Assembly along with the Head of the Marketing Team.
+        
 projects:
     title: Projects
     intro: >
