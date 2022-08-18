@@ -155,54 +155,54 @@ experiences:
         Lisbon and Universidade Lusófona. As a coordination member I am in charge of operating, managing and participating in the group. I've had many different roles, from Community Manager to Head of the General Assembly along with the Head of the Marketing Team.
         
 #projects:
-    title: Projects
-    intro: >
-      Even since I started my Master's, my love game dev has been growing and I always enjoyed participating in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
+#    title: Projects
+#    intro: >
+   #   Even since I started my Master's, my love game dev has been growing and I always enjoyed participating in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
    #   While most are present in [my itch.io page] (https://thedarkryze.itch.io/) here are a few highlights, these are in ordered from oldest to most recent
-    assignments:
-      - title: Don't Stress
-        link: https://globalgamejam.org/2017/games/dont-stress
-        tagline: "Anxious Brian wanders into a lost space ship. Help him find his wait out and Don't Stress."
+#    assignments:
+#      - title: Don't Stress
+#        link: https://globalgamejam.org/2017/games/dont-stress
+#        tagline: "Anxious Brian wanders into a lost space ship. Help him find his wait out and Don't Stress."
         #year: 2017
         #team size: 5
     
-     - title: RGBuilder
-        link: https://globalgamejam.org/2020/games/rgbuilder-4
-        tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
+#     - title: RGBuilder
+#        link: https://globalgamejam.org/2020/games/rgbuilder-4
+#        tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
         #year: 2020
         #team size: 6
     
-      - title: Smashcart Ultra
-        link: https://gamedevtecnico.itch.io/smashcart-ultra
-        tagline: "Smashcart Ultra is a low-poly shopping-cart simulator game where you get the chance to (or at least try to) control a crazy cart!"
+ #     - title: Smashcart Ultra
+ #       link: https://gamedevtecnico.itch.io/smashcart-ultra
+ #       tagline: "Smashcart Ultra is a low-poly shopping-cart simulator game where you get the chance to (or at least try to) control a crazy cart!"
         #year: 2020
         #team size: 5
         
-     - title: Timber
-        link: https://thedarkryze.itch.io/timber
-        tagline: "Timber is a game about a tribe of characters rebuilding their home in the woods." The game was made for a jam where players could only click in one button
+  #   - title: Timber
+  #      link: https://thedarkryze.itch.io/timber
+  #      tagline: "Timber is a game about a tribe of characters rebuilding their home in the woods." The game was made for a jam where players could only click in one button
         #year: 2020
         #team size: 4    
         
-    - title: Anglership
-        link: https://ratuspro.itch.io/anglership
-        tagline: "Play as an underwater explorer that tries to find mysterious artefacts lost in the depths of the sea. 
-                  This work is a submission for the Black and White Jam. The game only uses 2 colours; black or white."
+  #  - title: Anglership
+  #      link: https://ratuspro.itch.io/anglership
+  #      tagline: "Play as an underwater explorer that tries to find mysterious artefacts lost in the depths of the sea. 
+   #               This work is a submission for the Black and White Jam. The game only uses 2 colours; black or white."
         #year: 2021
         #team size: 5    
         
-    - title: Mc Pending's Pub
-        link: https://antunes10.itch.io/mcpendingspub
-        tagline: "You're a bartender in an Irish Pub and you need to keep your clients happy. Problems arise when the tv connection is 
-        pending and your customers want to watch the game. Your job is to keep serving clients while also restoring the short-circuits within the pub. "
-        #year: 2021
-        #team size: 5 
+ #   - title: Mc Pending's Pub
+ #       link: https://antunes10.itch.io/mcpendingspub
+ #       tagline: "You're a bartender in an Irish Pub and you need to keep your clients happy. Problems arise when the tv connection is 
+ #       pending and your customers want to watch the game. Your job is to keep serving clients while also restoring the short-circuits within the pub. "
+ #       #year: 2021
+ #       #team size: 5 
         
-    - title: Winds of Berkana
-        link: https://gamedev.tecnico.ulisboa.pt/game_project/winds-of-berkana/
-        tagline: "Winds of Berkana is a game that explores a beautiful fantasy world, a world of mountain ranges and ruins, 
-        flying whales and floating islands. The player takes control of Herai, a small boy and last surviving human while he searches for the rest of his kind,
-        through the remnants of a once ancient and magnanimous civilization."
+ #   - title: Winds of Berkana
+ #       link: https://gamedev.tecnico.ulisboa.pt/game_project/winds-of-berkana/
+ #       tagline: "Winds of Berkana is a game that explores a beautiful fantasy world, a world of mountain ranges and ruins, 
+ #       flying whales and floating islands. The player takes control of Herai, a small boy and last surviving human while he searches for the rest of his kind,
+ #       through the remnants of a once ancient and magnanimous civilization."
         #year: 2022
         #team size: 10-12  
 
