@@ -209,15 +209,17 @@ experiences:
 publications:
     title: Publications
     intro: |
-    Yooooooooooooooooooooo
- #          The best way to keep up with all of my publications is through [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
- #         However, here I will highlight a few of them, once again, from old to most recent           
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
         
+ #          The best way to keep up with all of my publications is through [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT) 
+ #         However, here I will highlight a few of them, once again, from old to most recent           
  #   papers:
  #     - title: "CiF-CK: An architecture for social NPCS in commercial games"
  #       link: "https://www.visualnarrative.ncsu.edu/wp-content/uploads/sites/16/2017/08/GSJ_IEEECIG_2017_CIFCK.pdf"
