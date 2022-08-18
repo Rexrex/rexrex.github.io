@@ -70,8 +70,6 @@ career-profile:
      and not for profit way.” 
      My PhD Thesis is about creating a framework that can create help the authoring task of creating believable Social
      Intelligent Agents using a Data Driven Approach. 
-
-
 education:
     - degree: PhD in Computer Science - Advanced Studies Diploma in Information Studies and Computer Engineering
       university: Instituto Superior Técnico, University of Lisbon
@@ -119,16 +117,15 @@ education:
         The sound, basic fundamentals offered by the IST in computer science and engineering ensure that the professionals trained in 
         this area will be prepared to adapt themselves to the permanent technological changes throughout their professional life.
         The chief objective of the Degree in Computer Science and Engineering (LEIC) is to offer students thorough knowledge in this area 
-        of Engineering, encouraging students' mobility to other European schools and to the labour market, which seeks this type of professionals.
-        
+        of Engineering, encouraging students' mobility to other European schools and to the labour market, which seeks this type of professionals.       
 experiences:
-    #- role: Researcher
-    #  time: 2016 - Present
-    #  company: GAIPS, INESC-ID, Lisbon
-    #  details: |
-    #    You
-    #      - Bullet point
-    #      - Bullet point        
+    - role: Researcher
+      time: 2016 - Present
+      company: GAIPS, INESC-ID, Lisbon
+      details: |
+        You
+          - Bullet point
+          - Bullet point        
           
     - role: Software Developper
       time: 2016-Present
@@ -184,8 +181,7 @@ experiences:
        and universities. We have members from Instituto Superior Técnico, the Faculty of Fine Arts of the
        University of Lisbon and Universidade Lusófona. As a coordination member I am in charge of 
        operating, managing and participating in the group. I've had many different roles, from Community Manager
-       to Head of the General Assembly along with the Head of the Marketing Team.
-        
+       to Head of the General Assembly along with the Head of the Marketing Team.       
 projects:
     title: Projects
     intro: >
@@ -240,7 +236,6 @@ projects:
         through the remnants of a once ancient and magnanimous civilization."
 #        year: 2022
 #        team size: 10-12  
-
 publications:
     title: Publications
     intro: |
