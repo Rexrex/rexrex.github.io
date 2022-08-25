@@ -28,19 +28,17 @@
       </span>
 
       {% if game.tagline %}
-      - <span class="game-tagline">{{ game.tagline }}</span>
+       <div class="game-tagline">{{ game.tagline }}</div>
       {% endif %}
-	  
+  
 	  {% if game.year %}
-      - <span class="game-year">{{ project.year }}</span>
+       <div class="game-year">{{ project.year }}</div>
       {% endif %}
 	  
 	   {% if game.team-size %}
-      - <span class="game-team-size">{{ project.team-size }}</span>
+       <div class="game-team-size">{{ project.team-size }}</div>
       {% endif %}
 	  
-	  
-
     </div><!--//item-->
   {% endfor %}
 
