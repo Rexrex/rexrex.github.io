@@ -196,12 +196,17 @@ games:
         year: 2017
         team-size: 5
         teamphoto: DontStress.jpg
+        logo: dontstresslogo.png
     
       - title: RGBuilder
         link: https://globalgamejam.org/2020/games/rgbuilder-4
         tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
         year: 2020
         team-size: 6
+        teamphoto: rgdbuild.png
+        logo: RGBuilder Pic.png
+        video: RGBGameplay.mp4
+        
     
       - title: Smashcart Ultra
         link: https://gamedevtecnico.itch.io/smashcart-ultra
