@@ -27,8 +27,10 @@
 	
 	{% if publication.conference %}
 	 <div class="publication-conference">Conference: {{ publication.conference }}</div>
+	 {% endif %}
 	{% if publication.journal %}
 	<div class="publication-journal">Journal: {{ publication.journal }}</div>
+	{% endif %}
     
 	Year: {{ publication.year }}
   </div><!--//item-->
