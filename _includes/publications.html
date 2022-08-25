@@ -23,9 +23,9 @@
     {% else %}
       <li>{{ publication.title }}</li>
     {% endif %}
-    <div class="publication-authors">Authors:{{ publication.authors }}</div>
+    <span class="publication-authors">Authors:{{ publication.authors }}</span>
     <div class="publication-conference">{{ publication.conference }}</div>
-	Year:<div class="publication-year">{{ publication.year }}</div>
+	Year: {{ publication.year }}
   </div><!--//item-->
   {% endfor %}
 
