@@ -203,8 +203,8 @@ games:
         tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
         year: 2020
         team-size: 6
-        teamphoto: rgdbuild.png
-        logo: RGBuilder Pic.png
+        teamphoto: rgbbuild.png
+        logo: RGBuilderPic.png
         video: RGBGameplay.mp4
         
     

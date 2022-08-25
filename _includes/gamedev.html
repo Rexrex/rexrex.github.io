@@ -29,18 +29,26 @@
 	   <div class="game-year">Year: {{ game.year }}</div>
 	   <div class="game-team-size">Team Size: {{ game.team-size }}</div>
 	    
+		<style>
+			.photo {border:4px solid #1b6b6f; padding:15px;}
+		</style>
+		
+			<style>
+			.video {border:4px solid #1b6b6f; padding:15px;}
+		</style>
+		
 		 {% if game.logo %}
-			<img class="avatar" src="{{ site.baseurl }}/assets/images/games/{{ game.logo }}"/>
+			<img class="photo" src="{{ site.baseurl }}/assets/images/games/{{ game.logo }}"/>
 		{% endif %}
 		
 		{% if game.teamphoto %}
-			<img class="avatar" src="{{ site.baseurl }}/assets/images/games/{{ game.teamphoto }}"/>
+			<img class="photo" src="{{ site.baseurl }}/assets/images/games/{{ game.teamphoto }}"/>
 		{% endif %}
 		
 		{% if game.video %}
 			<div class="game-video"> 			
 			<video width="320" height="240" controls>
-			 <source src="{{ site.baseurl }}/assets/videos/games/{{ game.video }} type="video/mp4">
+			 <source src="{{ site.baseurl }}/assets/videos/games/{{ game.video }}"/>
 			Your browser does not support the video tag. </video> </div>
 		{% endif %}
 		   
