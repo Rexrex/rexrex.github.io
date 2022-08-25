@@ -182,8 +182,8 @@ experiences:
        University of Lisbon and Universidade Lusófona. As a coordination member I am in charge of 
        operating, managing and participating in the group. I've had many different roles, from Community Manager
        to Head of the General Assembly along with the Head of the Marketing Team.       
-projects:
-    title: Projects
+games:
+    title: Game Development
     intro: >
       Even since I started my Master's, my love game dev has been growing and I always enjoyed participating
       in Game Jams and creating something, which eventually culminated into the creation of Game Dev Técnico. 
@@ -201,19 +201,19 @@ projects:
         link: https://globalgamejam.org/2020/games/rgbuilder-4
         tagline: "An Augmented Reality game about repairing your tower by taking photos of objects of different colors"
         year: 2020
-        team size: 6
+        team-size: 6
     
       - title: Smashcart Ultra
         link: https://gamedevtecnico.itch.io/smashcart-ultra
         tagline: "Smashcart Ultra is a low-poly shopping-cart simulator game where you get the chance to (or at least try to) control a crazy cart!"
-#        year: 2020
-#        team size: 5
+        year: 2020
+        team-size: 5
         
       - title: Timber
         link: https://thedarkryze.itch.io/timber
         tagline: "Timber is a game about a tribe of characters rebuilding their home in the woods. The game was made for a jam where players could only click in one button"
-#        year: 2020
-#        team size: 4    
+        year: 2020
+        team-size: 4    
         
       - title: Anglership
         link: https://ratuspro.itch.io/anglership

@@ -1,0 +1,48 @@
+{% assign games = site.data.data.games %}
+{% if games %}
+<section class="section games-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ games.title }}
+  </h2>
+
+  {% if games.intro %}
+  <div class="intro">
+      <p>{{ games.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for game in games.assignments %}
+    <div class="item">
+
+      <span class="game-title">
+        {% if game.link %}
+        <a href="{{ game.link }}" target="_blank">{{ game.title }}</a>
+        {% else %}
+        {{ game.title }}
+        {% endif %}
+      </span>
+
+      {% if game.tagline %}
+      - <span class="game-tagline">{{ game.tagline }}</span>
+      {% endif %}
+	  
+	  {% if game.year %}
+      - <span class="game-year">{{ project.year }}</span>
+      {% endif %}
+	  
+	   {% if game.team-size %}
+      - <span class="game-team-size">{{ project.team-size }}</span>
+      {% endif %}
+	  
+	  
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
