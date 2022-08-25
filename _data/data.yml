@@ -123,17 +123,29 @@ experiences:
       time: 2016 - Present
       company: GAIPS, INESC-ID, Lisbon
       details: |
-        You
-          - Bullet point
-          - Bullet point        
+       Since I finished my Master Thesis I started my career as a researcher. 
+       My responsabilities included, first of all to study and analyse both past and state of the art work in the field. 
+       Intepret research specifications and developing a work plan that satisfies requirements.
+       Implementing and conducting surveys polls, and interviews to gather data
+       Writing articles that 
+
+       Interpreting research specifications and developing a work plan that satisfies requirements. 
+       Conducting desktop research, and using books, journal articles, newspaper sources, questionnaires, 
+       surveys, polls, and interviews to gather data. Analyzing and interpreting patterns and trends.       
           
-    - role: Software Developper
+    - role: Software Developer
       time: 2016-Present
       company: Google, London
       details: |
-        Yoo
-          - Bullet point
-          - Bullet point
+        As a software developer my main contribution has been towards FAtiMA-Toolkit, a C#/Dotnet based Authoring Toolt where users are able to create intelligent social agents.
+        Implementação de novas funcionalidades no FAtiMA toolkit para melhorar os módulos: Integrated Authoring Tool e Social Exchanges Module (CIF-CK).
+        Execução de um plano de controlo de qualidade dos assets desenvolvidos no WP3, liderado pelo INESC-ID.
+        Criação de documentação e material de treino para o uso dos assets de responsabilidade do INESC-ID.
+        Criação de um website para o FAtiMA-Toolkit (http://fatima-toolkit.eu) com vários tutoriais, demonstrações e informação sobre técnica sobre o toolkit.
+        Realização de estudos, escrita de artigos científicos e sua apresentação em congressos.
+        Participação nas reuniões do projecto e na escrita de deliverables do projecto.
+        A sua contribuição foi crucial para a participação do INESC-ID no projeto.
+
           
     - role: Assistant Teacher
       time: 2019 - Present
