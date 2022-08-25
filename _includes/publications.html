@@ -24,7 +24,12 @@
       <li>{{ publication.title }}</li>
     {% endif %}
     Authors: <span class="publication-authors">{{ publication.authors }}</span>
-    Venue: <div class="publication-conference">{{ publication.conference }}</div>
+	
+	{% if publication.conference %}
+	 <div class="publication-conference">Conference: {{ publication.conference }}</div>
+	{% if publication.journal %}
+	<div class="publication-conference">Journal: {{ publication.conference }}</div>
+    
 	Year: {{ publication.year }}
   </div><!--//item-->
   {% endfor %}
