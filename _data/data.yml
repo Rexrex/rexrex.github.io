@@ -194,7 +194,7 @@ games:
         link: https://globalgamejam.org/2017/games/dont-stress
         tagline: "Anxious Brian wanders into a lost space ship. Help him find his wait out and Don't Stress"
         year: 2017
-        team-size:5
+        team-size: 5
         teamphoto: DontStress
     
       - title: RGBuilder
