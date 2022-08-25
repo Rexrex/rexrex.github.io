@@ -25,10 +25,13 @@
         {{ game.title }}
         {% endif %}
       </span>
-	   <div class="game-tagline">Tagline:{{ game.tagline }}</div>
-	   <div class="game-year">Year:{{ game.year }}</div>
-	   <div class="game-team-size">Team Size:{{ game.team-size }}</div>
-	   
+	   <div class="game-tagline">Tagline: {{ game.tagline }}</div>
+	   <div class="game-year">Year: {{ game.year }}</div>
+	   <div class="game-team-size">Team Size: {{ game.team-size }}</div>
+	    {% if game.teamphoto %}
+			<img class="avatar" src="{{ site.baseurl }}/assets/images/games/"{{game.teamphoto}}/>
+		{% endif %}
+		   
     </div><!--//item-->
   {% endfor %}
 
