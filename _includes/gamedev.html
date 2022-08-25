@@ -18,7 +18,6 @@
 
   {% for game in games.assignments %}
     <div class="item">
-
       <span class="game-title">
         {% if game.link %}
         <a href="{{ game.link }}" target="_blank">{{ game.title }}</a>
@@ -26,19 +25,9 @@
         {{ game.title }}
         {% endif %}
       </span>
-
-      {% if game.tagline %}
        <div class="game-tagline">{{ game.tagline }}</div>
-      {% endif %}
-  
-	  {% if game.year %}
        <div class="game-year">{{ project.year }}</div>
-      {% endif %}
-	  
-	   {% if game.team-size %}
-       <div class="game-team-size">{{ project.team-size }}</div>
-      {% endif %}
-	  
+       <div class="game-team-size">{{ project.team-size }}</div>	  
     </div><!--//item-->
   {% endfor %}
 
