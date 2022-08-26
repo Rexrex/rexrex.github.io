@@ -79,17 +79,18 @@ html {
 }
 
 .headings {
-    font-family: Verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 3rem;
     text-align: center;
     margin: 40px 0px;
 }
 
 .subheadings {
-    font-family: Verdana;
-    font-size: 2rem;
-    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    text-align: right;
     margin: 20px 0px;
+    width: 400px;
 }
 
 
@@ -184,15 +185,15 @@ html {
 .box {
     display: flex;
     flex-direction: column;
-    width: 350px;
-    font-size: 2rem;
+    width: 400px;
+    font-size: 1rem;
     height: 450px;
     border: 1px solid black;
     margin: 10px;
     align-items: center;
     text-align: justify;
     padding: 10px;
-    border-radius: 15px;
+    border-radius: 10px;
     background: linear-gradient(to top, rgb(49 119 172) 50%, white 50%);
     background-size: 100% 200%;
     transition: all .8s;
