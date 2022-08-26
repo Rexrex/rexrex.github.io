@@ -26,7 +26,7 @@ html {
     }
 
         .navbar ul li {
-            font-family: century-gothic, sans-serif;
+            font-family: Verdana;
             font-size: 1.1rem;
             font-weight: bold;
         }
@@ -79,7 +79,7 @@ html {
 }
 
 .headings {
-    font-family: century-gothic, sans-serif;
+    font-family: Verdana;
     font-size: 3rem;
     text-align: center;
     margin: 40px 0px;

@@ -9,7 +9,7 @@
 }
 
     #pic img {
-    width: 300px;
+    width: 250px;
     height: 175px;
     }
 
@@ -20,6 +20,7 @@
 /*Portfolio*/
 
 .gallery img {
+    align-content: center;
     width: 275px;
     height: 150px;
     margin: 10px;
