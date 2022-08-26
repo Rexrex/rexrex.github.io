@@ -5,6 +5,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=JetBrains+Mono');
 
 html {
     scroll-behavior: smooth;
@@ -88,7 +89,7 @@ html {
 }
 
 .subheadings {
-    font-family: "Open Sans", sans-serif;
+    font-family: "JetBrains Mono", sans-serif;
     font-size: 1.5rem;
     text-align: left;
     margin: 20px 0px;
@@ -141,7 +142,7 @@ html {
 }
 
     #intro h2 {
-        font-size: 2rem;
+        font-size: 2.2rem;
         margin-bottom: 20px;
     }
 
@@ -215,7 +216,7 @@ html {
         padding: 10px;
     }
 
-#box h2 {
+box h2 {
     font-size: 3rem;
 }
 
