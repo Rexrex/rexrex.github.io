@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 html {
     scroll-behavior: smooth;
 }
@@ -26,7 +28,7 @@ html {
     }
 
         .navbar ul li {
-            font-family: Verdana;
+            font-family: "Open Sans", sans-serif;
             font-size: 1.1rem;
             font-weight: bold;
         }
@@ -79,15 +81,15 @@ html {
 }
 
 .headings {
-    font-family: Courier New, Courier, monospace;
+    font-family: "Open Sans", sans-serif;
     font-size: 3rem;
     text-align: center;
     margin: 40px 0px;
 }
 
 .subheadings {
-    font-family: serif;
-    font-size: 1rem;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
     text-align: left;
     margin: 20px 0px;
     width: 500px;
@@ -214,8 +216,7 @@ html {
     }
 
 #box h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
+    font-size: 3rem;
 }
 
 /* Contact Section*/
