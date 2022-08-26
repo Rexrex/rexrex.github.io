@@ -5,7 +5,6 @@
 }
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=JetBrainsMono');
 
 html {
     scroll-behavior: smooth;
@@ -89,11 +88,11 @@ html {
 }
 
 .subheadings {
-    font-family: 'JetBrainsMono';
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.5rem;
     text-align: left;
     margin: 20px 0px ;
-    width: 600px;
+    width: 700px;
 }
 
 
@@ -121,8 +120,8 @@ html {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    padding: 30px;
-    margin-bottom: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 #pic {
@@ -193,7 +192,7 @@ html {
     display: flex;
     flex-direction: column;
     width: 400px;
-    font-size: 2rem;
+    font-size: 1rem;
     font-family: 'Open Sans';
     height: 450px;
     border: 1px solid black;
@@ -222,7 +221,7 @@ html {
     }
 
 box h2 {
-    font-size: 4rem;
+    font-size: 3rem;
     font-family: 'Open Sans';
 }
 
