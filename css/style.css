@@ -65,7 +65,7 @@ html {
         top: 0;
         right: 0;
         background: url('../assets/images/self/2.jpg') no-repeat center;
-        height: 900px;
+        height: 840px;
         width: 100%;
         z-index: -1;
         opacity: .8;
@@ -89,7 +89,7 @@ html {
 }
 
 .subheadings {
-    font-family: "JetBrains Mono", sans-serif;
+    font-family: "JetBrains Mono";
     font-size: 1.5rem;
     text-align: left;
     margin: 20px 0px;
@@ -121,12 +121,13 @@ html {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    padding: 20px;
-    margin-bottom: 50px;
+    padding: 30px;
+    margin-bottom: 30px;
 }
 
 #pic {
     display: flex;
+    border: thin;
 }
 
     #pic img {
@@ -138,12 +139,13 @@ html {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 10px;
+    padding: 20px;
 }
 
     #intro h2 {
         font-size: 2.2rem;
         margin-bottom: 20px;
+        font-family: 'Open Sans';
     }
 
 /* Portfolio Section*/
@@ -159,7 +161,8 @@ html {
 #gallery {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    flex-flow: row wrap;
+    justify-content: center;
     box-sizing: border-box;
 }
 
@@ -217,7 +220,8 @@ html {
     }
 
 box h2 {
-    font-size: 3rem;
+    font-size: 4rem;
+    font-family: 'Open Sans';
 }
 
 /* Contact Section*/
