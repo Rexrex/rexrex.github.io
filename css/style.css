@@ -34,11 +34,11 @@
     transition: all .5s ease;
 }
 
-    .navbar ul li a:hover {
-        background-color: white;
-        color: black;
-        box-shadow: 0 0 10px white;
-    }
+.navbar ul li a:hover {
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 10px white;
+}
 
 
         /* Home Section*/
@@ -128,13 +128,19 @@
 #portfolio {
     display: flex;
     flex-direction: column;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
 }
 
 #gallery {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
 }
 
 .gallery img {
     width: 360px;
     height: 240px;
+    margin: 10px;
 }
