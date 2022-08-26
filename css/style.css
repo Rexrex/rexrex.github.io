@@ -22,7 +22,7 @@
     }
 
         .navbar ul li {
-            font-family: century;
+            font-family: century-gothic, sans-serif;
             font-size: 1.1rem;
             font-weight: bold;
         }
@@ -75,7 +75,7 @@
 }
 
 .headings {
-    font-family: centure;
+    font-family: century-gothic, sans-serif;
     font-size: 3rem;
     text-align: center;
     margin: 40px 0px;
@@ -200,3 +200,20 @@
     }
 
 /* Contact Section*/
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: rgb(0,0,0,0.9);
+    color: white;
+}
+
+.form {
+    display:flex;
+    flex-direction:column;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 20px 0px;
+}
+
