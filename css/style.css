@@ -41,7 +41,7 @@ a:visited {
 
         .navbar ul li {
             font-family: "Open Sans", sans-serif;
-            font-size: 1.1rem;
+            font-size: 1.3rem;
             font-weight: bold;
         }
 
@@ -180,7 +180,7 @@ a:visited {
     color: black;
 }
 
-#gallery {
+.gallery {
     display: flex;
     flex-wrap: wrap;
     flex-flow: row wrap;
@@ -307,7 +307,7 @@ a:visited {
 }
 
     #contact text {
-        margin-bottom: 20px;
+        margin-bottom: 200px;
     } 
 
 
