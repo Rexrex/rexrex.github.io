@@ -208,8 +208,9 @@ a:visited {
         width: 25%;
         margin: 15px;
         width: 400px;
-        height: auto;
+        height: 300px;
     }
+
 
         .gallery .container .overlay {
             position: absolute;
