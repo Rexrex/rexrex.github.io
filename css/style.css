@@ -111,6 +111,31 @@ a:visited {
     text-shadow: 1.5px 1.5px black;
 }
 
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 40px;
+    width: 100px;
+    text-align: center;
+    border: solid;
+}
+
+    /* Add a hover effect if you want */
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
 
 .btn {
     padding: 10px 35px;
@@ -324,30 +349,7 @@ a:visited {
 }
 
 
-/* Style all font awesome icons */
-.headings .fa {
-    padding: 10px;
-    font-size: 40px;
-    width: 100px;
-    text-align: center;
-    text-decoration: none;
-}
 
-    /* Add a hover effect if you want */
-    .fa:hover {
-        opacity: 0.7;
-    }
-
-.headings .fa-linkedin {
-    background: #007bb5;
-    color: white;
-}
-
-/* Twitter */
-.headings .fa-twitter {
-    background: #55ACEE;
-    color: white;
-}
 
 
 
