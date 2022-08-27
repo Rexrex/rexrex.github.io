@@ -41,14 +41,14 @@ a:visited {
 
         .navbar ul li {
             font-family: "Open Sans", sans-serif;
-            font-size: 2rem;
+            font-size: 1.6rem;
             font-weight: bold;
         }
 
             .navbar ul li a {
                 text-decoration: none;
                 color: white;
-                padding: 9px 30px;
+                padding: 9px 25px;
                 transition: all .5s ease;
             }
 
@@ -201,41 +201,44 @@ a:visited {
     box-shadow: 0 0 20px rgb(49 119 172);
 }
 
-.gallery .container {
-    position: relative;
-    width: 33%;
-}
+    .gallery .container {
+        position: relative;
+        width: 25%;
+    }
+
+        .gallery .container:hover {
+            opacity: 1;
+            color: green;
+        }
+
+    .gallery .container .overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: #008CBA;
+    }
+
+    .gallery .container .overlay .text {
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
 
 
-.gallery .overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .5s ease;
-    background-color: #008CBA;
-}
 
-.gallery .container:hover {
-    opacity: 1;
-    color: green;
-}
 
-.gallery .container .overlay .text{
-    color: white;
-    font-size: 20px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    text-align: center;
-}
 
 
 /*Services*/
@@ -303,11 +306,8 @@ a:visited {
     background-color: rgb(0,0,0,0.9);
     color: white;
     text-align: center;
-    padding: 10px 0 10px 0;
+    padding: 10px 0 20px 0;
 }
 
-    #contact text {
-        padding: 0 0 -100px 0;
-    } 
 
 
