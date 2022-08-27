@@ -64,7 +64,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     background-color: rgba(0,0,0,0.5);
-    height: 860px;
+    height: 870px;
     justify-content: center;
     align-items: center;
     color: white;
@@ -73,7 +73,7 @@ a:visited {
     #home::before {
         content: "";
         position: absolute;
-        top: 10px;
+        top: 0px;
         right: 0;
         background: url('../assets/images/self/2.jpg') no-repeat center;
         height: 880px;
