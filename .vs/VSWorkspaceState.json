@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\images\\games",
+    "\\assets\\images\\self",
     "\\css"
   ],
-  "SelectedNode": "\\css\\style.css",
+  "SelectedNode": "\\css\\tablet.css",
   "PreviewInSolutionExplorer": false
 }
