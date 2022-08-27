@@ -64,7 +64,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     background-color: rgba(0,0,0,0.5);
-    height: 840px;
+    height: 900px;
     justify-content: center;
     align-items: center;
     color: white;
@@ -76,7 +76,7 @@ a:visited {
         top: 0;
         right: 0;
         background: url('../assets/images/self/2.jpg') no-repeat center;
-        height: 860px;
+        height: 900px;
         width: 100%;
         z-index: -1;
         opacity: .8;
@@ -176,7 +176,7 @@ a:visited {
 #portfolio {
     display: flex;
     flex-direction: column;
-    background-color: rgba(0,0,0,0.9);
+    background-color: white;
     color: white;
 }
 
@@ -201,7 +201,7 @@ a:visited {
     box-shadow: 0 0 20px rgb(49 119 172);
 }
 
-.overlay {
+.gallery .overlay {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -214,11 +214,11 @@ a:visited {
     background-color: #008CBA;
 }
 
-.container:hover .overlay {
+.gallery .container:hover .overlay {
     opacity: 1;
 }
 
-.overlay text {
+.gallery .overlay text {
     color: white;
     font-size: 20px;
     position: absolute;
@@ -237,6 +237,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     padding: 20px;
+    background-color: rgba(0,0,0,0.9);
 }
 
 .row {
@@ -292,7 +293,8 @@ box h2 {
     box-sizing: border-box;
     background-color: rgb(0,0,0,0.9);
     color: white;
-    text-align: center
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 
