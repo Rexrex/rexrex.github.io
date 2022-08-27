@@ -36,7 +36,7 @@ a:visited {
     .navbar ul {
         display: flex;
         list-style: none;
-        margin: 10px auto;
+        margin: 20px auto;
     }
 
         .navbar ul li {
@@ -64,7 +64,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     background-color: rgba(0,0,0,0.5);
-    height: 820px;
+    height: 880px;
     justify-content: center;
     align-items: center;
     color: white;
@@ -144,7 +144,7 @@ a:visited {
 }
 
     #pic img {
-        width: 500px;
+        width: 530px;
         height: auto;
         border: solid
     }
@@ -212,6 +212,8 @@ a:visited {
     }
 
     .gallery .container img{
+        max-width: 100%;
+        height: auto;
         object-fit: cover;
     }
 
