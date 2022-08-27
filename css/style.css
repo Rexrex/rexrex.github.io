@@ -325,10 +325,10 @@ a:visited {
 
 
 /* Style all font awesome icons */
-.fa {
+.headings .fa {
     padding: 10px;
     font-size: 40px;
-    width: 400px;
+    width: 100px;
     text-align: center;
     text-decoration: none;
 }
@@ -338,17 +338,15 @@ a:visited {
         opacity: 0.7;
     }
 
-.fa-linkedin {
+.headings .fa-linkedin {
     background: #007bb5;
     color: white;
-    width: 150px;
 }
 
 /* Twitter */
-.fa-twitter {
+.headings .fa-twitter {
     background: #55ACEE;
     color: white;
-    width: 150px
 }
 
 
