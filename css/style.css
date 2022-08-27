@@ -11,13 +11,13 @@ html {
 }
 
 a:link {
-    color: green;
+    color: rgb(62 150 216);
     background-color: transparent;
     text-decoration: none;
 }
 
 a:visited {
-    color: pink;
+    color: rgb(49 119 172);
     background-color: transparent;
     text-decoration: none;
 }
@@ -151,7 +151,8 @@ a:visited {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 20px;
+    padding: 10px 10px 10px 10px ;
+    text-size-adjust: auto
 }
 
     #intro h2 {
@@ -185,10 +186,18 @@ a:visited {
     margin: 15px;
 }
 
+gallery img:hover {
+    background-position: left bottom;
+    color: white;
+    border: none;
+    box-shadow: 0 0 20px rgb(49 119 172);
+}
+
+
 
 /*Services*/
 
-#services {
+#experience {
     display: flex;
     flex-direction: column;
     padding: 20px;
@@ -236,7 +245,7 @@ a:visited {
 box h2 {
     font-size: 3.2rem;
     font-family: 'Open Sans';
-    padding: 10px 0 5px 0 
+    padding: 10px 5px 5px 5px 
 }
 
 /* Contact Section*/
