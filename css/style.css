@@ -97,7 +97,7 @@ a:visited {
     font-size: 3rem;
     text-align: center;
     margin: 40px 0px;
-    text-shadow: 2px 2px black;
+    text-shadow: 1px 1px black;
 }
 
 .subheadings {
@@ -106,7 +106,7 @@ a:visited {
     text-align: left;
     margin: 20px 0px;
     width: 700px;
-    text-shadow: 2px 2px black;
+    text-shadow: 1.5px 1.5px black;
 }
 
 
@@ -208,13 +208,6 @@ a:visited {
         width: 25%;
     }
 
-        .gallery .container:hover {
-            background-position: left bottom;
-            color: white;
-            border: none;
-            box-shadow: 0 0 20px red;
-        }
-
         .gallery .container .overlay {
             position: absolute;
             top: 0;
@@ -228,17 +221,21 @@ a:visited {
             background-color: #008CBA;
         }
 
-            .gallery .container .overlay .text {
-                color: white;
-                font-size: 20px;
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                -webkit-transform: translate(-50%, -50%);
-                -ms-transform: translate(-50%, -50%);
-                transform: translate(-50%, -50%);
-                text-align: center;
-            }
+        .gallery .container:hover .overlay{
+            opacity: 1;
+        }
+
+        .gallery .container .overlay .text {
+            color: white;
+            font-size: 20px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
 
 
 
