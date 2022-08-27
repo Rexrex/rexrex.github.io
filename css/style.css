@@ -201,6 +201,12 @@ a:visited {
     box-shadow: 0 0 20px rgb(49 119 172);
 }
 
+.container {
+    position: relative;
+    width: 50%;
+}
+
+
 .gallery .overlay {
     position: absolute;
     top: 0;
@@ -214,11 +220,11 @@ a:visited {
     background-color: #008CBA;
 }
 
-.gallery .container:hover .overlay {
+.gallery .container:hover overlay {
     opacity: 1;
 }
 
-.gallery .overlay .text {
+.gallery overlay .text {
     color: white;
     font-size: 20px;
     position: absolute;
@@ -283,7 +289,8 @@ a:visited {
 box h2 {
     font-size: 3.2rem;
     font-family: 'Open Sans';
-    padding: 10px 5px 5px 5px 
+    padding: 10px 5px 5px 5px;
+    color: black;
 }
 
 /* Contact Section*/
