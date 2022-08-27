@@ -211,6 +211,13 @@ a:visited {
         height: 300px;
     }
 
+    .gallery .container img{
+        position: relative;
+        width: 25%;
+        margin: 15px;
+        max-width: 400px;
+    }
+
 
         .gallery .container .overlay {
             position: absolute;
