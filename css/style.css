@@ -1,9 +1,7 @@
 * {
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 0;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
@@ -372,13 +370,14 @@ a:visited {
     .box h2 {
         font-size: 2rem;
         font-family: 'Open Sans';
-        padding: 20px 5px 10px 5px;
+        padding: 15px 5px 5px 5px;
         color: black;
         text-align: center;
     }
 
     .box a {
-        padding: 10px 5px 10px 5px;
+        font-size: .9rem;
+        padding: 5px 20px 5px 20px;
     }
 
 
