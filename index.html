@@ -144,9 +144,13 @@
     
     <section id="contact">
         <h1 class="headings"> CONTACT </h1>
-        <h2>  <a href = "mailto:manuel.m.guimaraes@tecnico.ulisboa.pt"> Link to </a></h2>
+        <form action="mailto:manuel.m.guimaraes@tecnico.ulisboa.pt" class="form" method="post" enctype="text/plain">
+            <input type="text" name="name" class="input" placeholder="Enter your name">
+            <input type="email" name="email" class="input" placeholder="Enter your Email">
+            <textarea name_="msg" id="msg" cols="30" rows="10" placeholder="Enter Your Message"></textarea>
+            <input type="submit" value="SEND" id="send">
+        </form>
     </section>
-
 </body>
 
 </html>
