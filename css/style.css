@@ -184,7 +184,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 10px 10px 10px 10px ;
+    padding: 10px 40px 10px 40px ;
     text-size-adjust: auto
 }
 
@@ -195,8 +195,10 @@ a:visited {
         color: white;
         outline: none;
         transition: .6s ease;
-        width: 100px;
+        width: 200px;
         height: auto;
+        margin: 20px;
+        align-content: center;
     }
 
 
