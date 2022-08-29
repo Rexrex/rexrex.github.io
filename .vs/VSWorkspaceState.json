@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\games",
     "\\css",
-    "\\sections"
+    "\\sections\\JS",
+    "\\_data"
   ],
-  "SelectedNode": "\\sections\\contact.html",
+  "SelectedNode": "\\assets\\images\\games\\smashcart.png",
   "PreviewInSolutionExplorer": false
 }
