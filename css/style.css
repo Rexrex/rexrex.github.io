@@ -66,7 +66,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     background-color: rgba(0,0,0,0.5);
-    height: 845px;
+    height: 830px;
     justify-content: center;
     align-items: center;
     color: white;
@@ -165,7 +165,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    padding: 100px;
+    padding: 100px 30px 100px 30px;
     margin-bottom: 10px;
 }
 
@@ -185,7 +185,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 20px;
+    padding: 10px;
     text-size-adjust: auto;
     width: 70%;
 }
@@ -193,7 +193,7 @@ a:visited {
 
 
     #intro .container {
-        padding: 10px 35px;
+        padding: 10px 10px;
         background-color: transparent;
         border: 1px solid white;
         color: white;
