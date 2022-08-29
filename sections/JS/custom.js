@@ -1,4 +1,3 @@
-const { right } = require("@popperjs/core");
 
 const leftSlide = document.querySelector(".left-slides");
 const rightSlide = document.querySelector(".right-slides");
