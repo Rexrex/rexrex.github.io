@@ -185,10 +185,13 @@ a:visited {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 5px 40px 5px 40px;
+    padding: 20px;
     text-size-adjust: auto;
     width: 70%;
 }
+   
+
+
     #intro .container {
         padding: 10px 35px;
         background-color: transparent;
@@ -205,9 +208,21 @@ a:visited {
 
         #intro .container img {
             width: 220px;
-            max-height:80px;
+            height:80px;
             object-fit: contain;
         }
+
+        #intro .container a:link {
+            color: transparent;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        intro .container a:visited {
+            color: transparent;
+            background-color: transparent;
+            text-decoration: none;
+        }    
 
 
     #intro h2 {
