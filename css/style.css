@@ -185,7 +185,6 @@ a:visited {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 10px;
     text-size-adjust: auto;
     width: 70%;
 }
@@ -193,7 +192,7 @@ a:visited {
 
 
     #intro .container {
-        padding: 10px 10px;
+        padding: 0px 10px;
         background-color: transparent;
         border: 1px solid white;
         color: white;
