@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images\\games",
-    "\\assets\\images\\self",
-    "\\css"
+    "\\css",
+    "\\sections"
   ],
-  "SelectedNode": "\\css\\tablet.css",
+  "SelectedNode": "\\sections\\contact.html",
   "PreviewInSolutionExplorer": false
 }
