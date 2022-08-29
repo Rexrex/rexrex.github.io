@@ -24,7 +24,7 @@ body {
     overflow: hidden;
     position: relative;
     color: #fff;
-    padding: 20px;
+    padding: 0px;
 }
 
     .slider-container .left-slides {
@@ -60,8 +60,9 @@ body {
         }
 
         .slider-container .right-slides .game {
-            padding: 250px, 100px, 100px, 100px;
-            position: relative;
+            position: absolute;
+            bottom: 10px;
+            right: 20px;
         }
 
 
