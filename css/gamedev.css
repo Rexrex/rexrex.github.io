@@ -48,8 +48,8 @@ body {
 
     .slider-container .right-slides .logo{
             position: relative;
-            height: 25%;
-            width: 25%;
+            height: 100%;
+            width: 100%;
             border: solid 0.5px;
             align-content: center;
             border: solid 0.5px;
@@ -63,6 +63,8 @@ body {
             left: 50px;
             top: 50px;
         }
+
+
 
         .slider-container .right-slides .game {
             position: fixed;
