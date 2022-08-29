@@ -43,13 +43,14 @@ body {
         width: 65%;
         height: 100vh;
         transition: transform 0.5s ease-in-out;
+        border: solid;
     }
 
     .slider-container .right-slides .logo{
             position: relative;
             padding: 100px, 100px, 100px, 100px ;
-            height: 25%;
-            width: 25%;
+            height: 100%;
+            width: 100%;
             border: solid;
     }
 
