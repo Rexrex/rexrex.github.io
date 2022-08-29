@@ -87,17 +87,17 @@ body {
     text-align:center;
 }
 
-.slider-container button{
-    position: absolute;
-    left: 35%;
-    top: 50%;
-    font-size: 1.5rem;
-    padding: 12px;
-    border: none;
-    cursor: pointer;
-    color: #fff;
-    background: #444;
-}
+    .slider-container button{
+        position: absolute;
+        left: 35%;
+        top: 50%;
+        font-size: 1.5rem;
+        padding: 12px;
+        border: none;
+        cursor: pointer;
+        color: #fff;
+        background: #444;
+    }
 
 .slider-container .buttons .left-btn{
    transform: translateX(-100%);
@@ -106,7 +106,7 @@ body {
 }
 
     .slider-container .buttons .right-btn {
-        transform: translateX(-100%);
+        transform: translateY(-100%);
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
     }

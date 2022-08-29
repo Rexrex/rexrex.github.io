@@ -3,7 +3,7 @@ const leftSlide = document.querySelector(".left-slides");
 const rightSlide = document.querySelector(".right-slides");
 const leftBtn = document.querySelector(".left-btn");
 const rightBtn = document.querySelector(".right-btn");
-const slidesLength = document.querySelector("div");
+const slidesLength = leftSlide.querySelectorAll("div").length;
 
 
 let currentSlide = 0;
@@ -32,7 +32,7 @@ function changeSlide(btn) {
     leftSlide.style.transform = `translateY(-${currentSlide * 100}%)`;
 }
 
-setInterval(autoChangeSlide, 5000);
+setInterval(autoChangeSlide, 10000);
 
 function autoChangeSlide() {
     currentSlide++;
