@@ -165,7 +165,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    padding: 30px 100px 30px 100px;
+    padding: 30px 60px 30px 100px;
     margin-bottom: 10px;
 }
 
@@ -185,6 +185,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     text-align: justify;
+    padding: 10px;
     text-size-adjust: auto;
     width: 70%;
 }
