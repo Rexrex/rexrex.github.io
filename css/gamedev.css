@@ -19,11 +19,12 @@ body {
 
 
 .slider-container {
-    height:100vh;
+    height:95vh;
     width:100vw;
     overflow: hidden;
     position: relative;
     color: #fff;
+    padding: 20px;
 }
 
     .slider-container .left-slides {
