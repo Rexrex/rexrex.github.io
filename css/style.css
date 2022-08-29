@@ -197,9 +197,9 @@ a:visited {
         color: white;
         outline: none;
         transition: .6s ease;
-        width: 25%;
+        width: 15%;
         height: auto;
-        margin: 20px;
+        margin: 10px;
         align-items: center;
         object-fit: cover;
     }
