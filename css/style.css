@@ -197,11 +197,11 @@ a:visited {
         color: white;
         outline: none;
         transition: .6s ease;
-        width: 15%;
-        height: auto;
+        width: 100px;
+        height: 70px;
         margin: 10px;
-        align-items: center;
         object-fit: cover;
+        align-self: center;
     }
 
 
