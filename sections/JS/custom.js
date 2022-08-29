@@ -16,7 +16,7 @@ rightBtn.addEventListener("click", () => changeSlide("right"));
 function changeSlide(btn) {
 
     if (btn=="right") {
-
+        currentSlide++;
         if (currentSlide > slidesLength - 1) {
             currentSlide = 0;
         }
