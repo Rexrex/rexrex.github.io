@@ -87,7 +87,7 @@ body {
     text-align:center;
 }
 
-.slider-container button {
+.slider-container button{
     position: absolute;
     left: 35%;
     top: 50%;
@@ -99,13 +99,13 @@ body {
     background: #444;
 }
 
-.slider-container .button .left-btn{
+.slider-container .buttons .left-btn{
    transform: translateX(-100%);
    border-top-left-radius: 5px;
    border-bottom-left-radius: 5px;
 }
 
-    .slider-container .button .right-btn {
+    .slider-container .buttons .right-btn {
         transform: translateX(-100%);
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
