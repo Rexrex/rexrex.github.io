@@ -189,20 +189,25 @@ a:visited {
     text-size-adjust: auto;
     width: 70%;
 }
-
-    #intro img {
+    #intro .container {
         padding: 10px 35px;
         background-color: transparent;
         border: 1px solid white;
         color: white;
         outline: none;
         transition: .6s ease;
-        width: 100px;
-        height: 70px;
-        margin: 10px;
-        object-fit: cover;
-        align-self: center;
+        display: flex;
+        flex-wrap: wrap;
+        margin: auto;
+        /*    flex-flow: row wrap;*/
+        justify-content: center;
     }
+
+        #intro .container img {
+            width: 150px;
+            height: 70px;
+            object-fit: cover;
+        }
 
 
     #intro h2 {
