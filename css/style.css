@@ -165,7 +165,7 @@ a:visited {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    padding: 10px;
+    padding: 30px 0px 30px 0px;
     margin-bottom: 10px;
 }
 
@@ -198,15 +198,15 @@ a:visited {
         transition: .6s ease;
         display: flex;
         flex-wrap: wrap;
-        margin: auto;
+        margin: 10px;
         /*    flex-flow: row wrap;*/
         justify-content: center;
     }
 
         #intro .container img {
-            width: 200px;
+            width: 220px;
             max-height:80px;
-            object-fit: cover;
+            object-fit: contain;
         }
 
 
