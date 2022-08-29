@@ -45,6 +45,25 @@ body {
         transition: transform 0.5s ease-in-out;
     }
 
+    .slider-container .right-slides .logo{
+            padding: 100px, 100px, 100px, 100px ;
+            height: 25%;
+            width: 25%;
+            border: solid;
+    }
+
+        .slider-container .right-slides .logo img {
+            width: 400px;
+            height: 300px;
+            object-fit: cover;
+        }
+
+    .slider-container .right-slides .game {
+        padding: 250px, 100px, 100px, 100px;
+    }
+
+
+
 .left-slides > div {
     height: 95%;
     width: 100%;
@@ -67,7 +86,7 @@ body {
 
 
 .right-slides > div {
-    height: 95%;
+    height: 100%;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
