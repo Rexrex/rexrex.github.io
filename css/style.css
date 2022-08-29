@@ -139,6 +139,8 @@ a:visited {
 }
 
 
+
+
 .btn {
     padding: 10px 35px;
     background-color: transparent;
@@ -185,6 +187,17 @@ a:visited {
     padding: 10px 10px 10px 10px ;
     text-size-adjust: auto
 }
+
+    #intro img {
+        padding: 10px 35px;
+        background-color: transparent;
+        border: 1px solid white;
+        color: white;
+        outline: none;
+        transition: .6s ease;
+        width: 100px;
+        height: auto;
+    }
 
 
     #intro h2 {
@@ -386,7 +399,7 @@ a:visited {
         box-shadow: 0 0 10px white;
     }
 
-.hidden-field {
+.visually-hidden {
     display: none;
 }
 
