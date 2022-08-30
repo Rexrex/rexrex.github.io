@@ -54,7 +54,7 @@ body {
         }
 
             .slider-container .right-slides .background .logo {
-                position: fixed;
+                position: relative;
                 top: 30px;
                 left: 30px;
                 width : 35%;
@@ -65,7 +65,7 @@ body {
             }
 
             .slider-container .right-slides .background .gameplay {
-                position: fixed;
+                position: relative;
                 top: 30px;
                 right: 100px;
                 width: 35%;
@@ -74,7 +74,7 @@ body {
 
 
             .slider-container .right-slides .background .game {
-                position: fixed;
+                position: relative;
                 bottom: 80px;
                 right: 20px;
             }
