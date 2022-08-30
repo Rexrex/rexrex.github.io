@@ -64,28 +64,20 @@ body {
                 border: solid 0.5px;
             }
 
-                .slider-container .right-slides .background .logo img {
-                    max-width: 80%;
-                    height: auto;
-                    object-fit: contain;
-                    position: fixed;
-                    padding: 10px 5px 10px 5px;
-                }
-
             .slider-container .right-slides .background .gameplay {
                 position: fixed;
                 top: 30px;
-                right: 30px;
+                right: 100px;
                 width: 35%;
                 height: 35%;
             }
 
 
-        .slider-container .right-slides .background .game {
-            position: fixed;
-            bottom: 80px;
-            right: 20px;
-        }
+            .slider-container .right-slides .background .game {
+                position: fixed;
+                bottom: 80px;
+                right: 20px;
+            }
 
 
 
