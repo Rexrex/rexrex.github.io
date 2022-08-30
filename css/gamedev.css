@@ -20,7 +20,7 @@ body {
 
 .slider-container {
     height:90vh;
-    width:99vw;
+    width:100vw;
     overflow: hidden;
     position: relative;
     color: #fff;
@@ -109,7 +109,7 @@ body {
     font-size: 3rem;
     margin-bottom: 20px;
     border: solid 0.5px black;
-    object-fit: cover;
+    object-fit: contain;
     max-width : 80%;
     height: auto;
 }
