@@ -6,8 +6,7 @@
 .slideshow-container {
     width: 100%;
     height: 100%;
-    position: absolute;
-    margin: auto;
+    position: relative;
 }
 
 /* Hide the images by default */
