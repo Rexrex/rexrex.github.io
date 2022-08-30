@@ -35,7 +35,7 @@ function changeSlide(btn) {
 
             currentSlide = slidesLength - 1;
             
-            slideMax = slidesLength * 4;
+            slideMax = slidesLength;
             slideMin = slideMax - 3;
         }
         else {
