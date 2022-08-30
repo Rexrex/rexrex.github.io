@@ -55,15 +55,15 @@ body {
 
             .slider-container .right-slides .background .logo {
                 position: absolute;
-                bottom: 80px;
+                bottom: 70px;
                 left: 30px;
-                width : 45%;
-                height : 25%;
+                width : 60%;
+                height : 30%;
                 border: solid 0.5px;
             }
 
                 .slider-container .right-slides .background .logo p {
-                    font-size: 0.8rem;
+                    font-size: 0.9rem;
                     text-align: left;
                     padding: 5px 10px 5px 10px;
                     line-height: normal;
@@ -86,7 +86,7 @@ body {
 
             .slider-container .right-slides .background .game {
                 position: absolute;
-                bottom: 100px;
+                bottom: 70px;
                 right: 50px;
             }
 
