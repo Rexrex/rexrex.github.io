@@ -24,7 +24,6 @@ function changeSlide(btn) {
             slideMax = mySlidesLength;
             slideMin = slideMax - 3;
             slideIndex = slideMin;
-            alert('Slide Index: ' + slideIndex + 'Slide min: ' + slideMin + 'Slide max: ' + slideMax + 'Slide length: ' + mySlidesLength);
 
         }
 
