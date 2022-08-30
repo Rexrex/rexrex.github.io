@@ -88,11 +88,11 @@
 }
 
 .slideshow-container .fade img{
-    object-fit: contain;
+    object-fit: cover;
     align-self: center;
-    width: 90%;
-    height: 90%;
-    padding: 10px 10px 40px 10px;
+    width: 50%;
+    height: 50%;
+    padding: 10px 10px 30px 10px;
 }
 
 @keyframes fade {
