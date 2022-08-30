@@ -7,6 +7,8 @@
     max-width: 100%;
     position: relative;
     margin: auto;
+    border: solid white;
+    align-content: center;
 }
 
 /* Hide the images by default */
