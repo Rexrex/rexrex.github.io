@@ -9,7 +9,7 @@
     position: relative;
     margin: auto;
     border: solid white;
-    align-content: center;
+    align-items: center;
 }
 
 /* Hide the images by default */
