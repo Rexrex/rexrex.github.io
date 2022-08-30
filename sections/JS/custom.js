@@ -20,11 +20,13 @@ function changeSlide(btn) {
         if (currentSlide > slidesLength - 1) {
             currentSlide = 0;
             slideMin = 1;
+            slideIndex = 1
             slideMax = 4;
         }
 
         else {
             slideMin += 4;
+            slideIndex += 4
             slideMax += 4;
         }
     } else if (btn == "left") {
@@ -37,15 +39,18 @@ function changeSlide(btn) {
             
             slideMax = slidesLength;
             slideMin = slideMax - 3;
+            slideIndex = slideMin;
         }
         else {
             slideMin -= 4;
             slideMax -= 4;
+            slideIndex = slideMin;
         }
     }
 
     rightSlide.style.transform = `translateY(-${(slidesLength - 1 - currentSlide) * 100}%)`;
     leftSlide.style.transform = `translateY(-${currentSlide * 100}%)`;
+    showSlides(slideIndex);
 }
 
 /*setInterval(autoChangeSlide, 50000);
