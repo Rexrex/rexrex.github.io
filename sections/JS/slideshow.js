@@ -1,3 +1,5 @@
+const { debug } = require("console");
+
 let slideIndex = 1;
 let slideMin = 1;
 let slideMax = 4
@@ -16,15 +18,18 @@ function currentSlides(n) {
 function showSlides(n) {
     let i;
     let slides = document.getElementsByClassName("mySlides");
-    let dots = document.getElementsByClassName("dot");
+   // let dots = document.getElementsByClassName("dot");
     if (n > slideMax) { slideIndex = slideMin }
     if (n < slideMin) { slideIndex = slideMax }
     for (i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
     }
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
+ //   for (i = 0; i < dots.length; i++) {
+ //       dots[i].className = dots[i].className.replace(" active", "");
+ //   }
+
+    document.write(slides.length);
+    document.write(slideIndex);
     slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += " active";
+  //  dots[slideIndex - 1].className += " active";
 }
