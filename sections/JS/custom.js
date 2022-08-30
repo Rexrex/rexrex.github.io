@@ -1,6 +1,6 @@
 
 const leftSlide = document.querySelector(".left-slides");
-const rightSlide = document.querySelector(".right-slides .background");
+const rightSlide = document.querySelector(".right-slides");
 const leftBtn = document.querySelector(".left-btn");
 const rightBtn = document.querySelector(".right-btn");
 const slidesLength = leftSlide.querySelectorAll("div").length;
