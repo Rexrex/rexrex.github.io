@@ -76,8 +76,9 @@ body {
                 position: absolute;
                 top: 5%;
                 right: 35%;
-                width: 50%;
-                height: 50%;
+                width: 75%;
+                height: 60%;
+                align-content: center;
             }
 
 
