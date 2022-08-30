@@ -55,15 +55,15 @@ body {
 
             .slider-container .right-slides .background .logo {
                 position: absolute;
-                bottom: 70px;
+                bottom: 100px;
                 left: 30px;
-                width : 60%;
-                height : 30%;
+                width : 65%;
+                height : 20%;
                 border: solid 0.5px;
             }
 
                 .slider-container .right-slides .background .logo p {
-                    font-size: 0.9rem;
+                    font-size: 1rem;
                     text-align: left;
                     padding: 5px 2px 5px 2px;
                     line-height: normal;
@@ -96,8 +96,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
-
 }
 
 .left-slides h3 {
