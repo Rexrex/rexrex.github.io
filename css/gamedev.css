@@ -55,11 +55,10 @@ body {
 
             .slider-container .right-slides .background .logo {
                 position: absolute;
-                bottom: 50px;
+                bottom: 100px;
                 left: 30px;
                 width : 35%;
                 height : 30%;
-                border: solid 0.5px;
                 border: solid 0.5px;
             }
 
