@@ -4,6 +4,7 @@ const rightSlide = document.querySelector(".right-slides");
 const leftBtn = document.querySelector(".left-btn");
 const rightBtn = document.querySelector(".right-btn");
 const slidesLength = leftSlide.querySelectorAll("div").length;
+const mySlidesLength = document.getElementsByClassName("mySlides").length;
 
 
 let currentSlide = 0;
@@ -25,9 +26,9 @@ function changeSlide(btn) {
         }
 
         else {
-            slideMin += 4;
-            slideIndex += 4
-            slideMax += 4;
+            slideMin -= 4;
+            slideIndex -= 4
+            slideMax -= 4;
         }
     } else if (btn == "left") {
 
@@ -37,13 +38,13 @@ function changeSlide(btn) {
 
             currentSlide = slidesLength - 1;
             
-            slideMax = slidesLength;
+            slideMax = mySlidesLength;
             slideMin = slideMax - 3;
             slideIndex = slideMin;
         }
         else {
-            slideMin -= 4;
-            slideMax -= 4;
+            slideMin += 4;
+            slideMax += 4;
             slideIndex = slideMin;
         }
     }
