@@ -65,7 +65,9 @@ body {
                 .slider-container .right-slides .background .logo p {
                     font-size: 0.9rem;
                     text-align: left;
+                    padding: 5px 2px 5px 2px;
                     line-height: normal;
+                    margin: 2px 2px 2px 2px;
                 }
 
                 .slider-container .right-slides .background .logo h2 {
