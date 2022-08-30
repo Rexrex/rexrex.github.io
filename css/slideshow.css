@@ -4,7 +4,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-    max-width: 100%;
+    width: 50%;
     position: relative;
     margin: auto;
     border: solid white;
@@ -88,7 +88,8 @@
 
 .fade img{
     object-fit: contain;
-    padding: 10px 10px 20px 10px;
+    align-self: center;
+    padding: 10px 10px 40px 10px;
 }
 
 @keyframes fade {
