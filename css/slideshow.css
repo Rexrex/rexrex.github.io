@@ -4,7 +4,8 @@
 
 /* Slideshow container */
 .slideshow-container {
-    max-width: 70%;
+    width: 70%;
+    height: 50%;
     position: relative;
     margin: auto;
     border: solid white;
@@ -89,6 +90,8 @@
 .fade img{
     object-fit: contain;
     align-self: center;
+    max-width: 90%;
+    max-height: 90%;
     padding: 10px 10px 40px 10px;
 }
 
