@@ -55,21 +55,31 @@ body {
 
             .slider-container .right-slides .background .logo {
                 position: absolute;
-                top: 30px;
+                bottom: 30px;
                 left: 30px;
                 width : 35%;
-                height : 35%;
+                height : 30%;
                 border: solid 0.5px;
-                align-content: center;
+                text-align: left;
                 border: solid 0.5px;
             }
 
+                .slider-container .right-slides .background .logo p {
+                    font-size: 1rem;
+                }
+
+                .slider-container .right-slides .background .logo h2 {
+                    font-size: 2rem;
+                    padding-bottom: 10px;
+                    text-align: center;
+                }
+
             .slider-container .right-slides .background .gameplay {
                 position: absolute;
-                top: 30px;
-                right: 100px;
-                width: 35%;
-                height: 35%;
+                top: 100px;
+                right: 250px;
+                width: 45%;
+                height: 45%;
             }
 
 
