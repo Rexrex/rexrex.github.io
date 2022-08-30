@@ -57,7 +57,7 @@ body {
                 position: absolute;
                 bottom: 100px;
                 left: 30px;
-                width : 35%;
+                width : 40%;
                 height : 30%;
                 border: solid 0.5px;
             }
@@ -65,6 +65,7 @@ body {
                 .slider-container .right-slides .background .logo p {
                     font-size: 1rem;
                     text-align: left;
+                    padding: 10px 10px 10px 10px;
                 }
 
                 .slider-container .right-slides .background .logo h2 {
