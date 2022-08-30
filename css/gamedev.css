@@ -107,8 +107,8 @@ body {
 
 .left-slides img {
     font-size: 3rem;
-    margin-bottom: 30px;
-    border: solid 0.5px white;
+    margin-bottom: 20px;
+    border: solid 0.5px black;
     object-fit: cover;
     max-width : 80%;
     height: auto;
@@ -116,7 +116,7 @@ body {
 
 
 .left-slides p{
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding: 10px 20px 10px 20px
 }
 
