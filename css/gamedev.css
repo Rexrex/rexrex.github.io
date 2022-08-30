@@ -75,10 +75,9 @@ body {
             .slider-container .right-slides .background .gameplay {
                 position: absolute;
                 top: 5%;
-                right: 35%;
-                width: 75%;
-                height: 60%;
-                align-content: center;
+                right: 25%;
+                width: 60%;
+                height: 50%;
             }
 
 
