@@ -25,10 +25,7 @@ function showSlides(n) {
  //   for (i = 0; i < dots.length; i++) {
  //       dots[i].className = dots[i].className.replace(" active", "");
  //   }
-    alert('Slide Index: ' + slideIndex);
-    alert('Slide min: ' + slideMin);
-    alert('Slide max: ' + slideMax);
-    alert('Slide length: ' + slides.length);
+    alert('Slide Index: ' + slideIndex + 'Slide min: ' + slideMin + 'Slide max: ' + slideMax + 'Slide length: ' + slides.length);
     slides[slideIndex - 1].style.display = "block";
   //  dots[slideIndex - 1].className += " active";
 }
