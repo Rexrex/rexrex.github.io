@@ -1,6 +1,6 @@
 let slideIndex = 1;
-let slideMin = 1;
-let slideMax = 4
+let slideMin = 12;
+let slideMax = 16;
 showSlides(slideIndex);
 
 // Next/previous controls
