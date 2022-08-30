@@ -55,8 +55,8 @@ body {
 
             .slider-container .right-slides .background .logo {
                 position: fixed;
-                bottom: 60px;
-                right: 30px;
+                top: 30px;
+                left: 30px;
                 width : 25%;
                 height : 25%;
                 border: solid 0.5px;
@@ -65,18 +65,19 @@ body {
             }
 
                 .slider-container .right-slides .background .logo img {
-                    width: 400px;
-                    height: 300px;
+                    max-width: 80%;
+                    height: auto;
                     object-fit: cover;
                     position: fixed;
+                    padding: 10px 5px 10px 5px;
                 }
 
 
 
         .slider-container .right-slides .background .game {
             position: fixed;
-            bottom: 60px;
-            right: 30px;
+            bottom: 80px;
+            right: 20px;
         }
 
 
