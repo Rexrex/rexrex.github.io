@@ -15,16 +15,32 @@ rightBtn.addEventListener("click", () => changeSlide("right"));
 
 function changeSlide(btn) {
 
-    if (btn=="right") {
+    if (btn == "right") {
         currentSlide++;
         if (currentSlide > slidesLength - 1) {
             currentSlide = 0;
+            slideMin = 1;
+            slideMax = 4;
+        }
+
+        else {
+            slideMin += 4;
+            slideMax += 4;
         }
     } else if (btn == "left") {
+
         currentSlide--;
 
         if (currentSlide < 0) {
+
             currentSlide = slidesLength - 1;
+            
+            slideMax = slidesLength * 4;
+            slideMin = slideMax - 3;
+        }
+        else {
+            slideMin -= 4;
+            slideMax -= 4;
         }
     }
 
@@ -32,7 +48,7 @@ function changeSlide(btn) {
     leftSlide.style.transform = `translateY(-${currentSlide * 100}%)`;
 }
 
-setInterval(autoChangeSlide, 50000);
+/*setInterval(autoChangeSlide, 50000);
 
 function autoChangeSlide() {
     currentSlide++;
@@ -43,4 +59,4 @@ function autoChangeSlide() {
 
     rightSlide.style.transform = `translateY(-${(slidesLength - 1 - currentSlide) * 100}%)`;
     leftSlide.style.transform = `translateY(-${currentSlide * 100}%)`;
-}
+}*/
