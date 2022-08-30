@@ -1,5 +1,3 @@
-const { debug } = require("console");
-
 let slideIndex = 1;
 let slideMin = 1;
 let slideMax = 4
@@ -28,8 +26,6 @@ function showSlides(n) {
  //       dots[i].className = dots[i].className.replace(" active", "");
  //   }
 
-    document.write(slides.length);
-    document.write(slideIndex);
     slides[slideIndex - 1].style.display = "block";
   //  dots[slideIndex - 1].className += " active";
 }
