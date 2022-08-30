@@ -1,5 +1,5 @@
 let slideIndex = 1;
-let slideMin = 12;
+let slideMin = 13;
 let slideMax = 16;
 showSlides(slideIndex);
 
