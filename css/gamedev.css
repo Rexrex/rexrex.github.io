@@ -19,8 +19,8 @@ body {
 
 
 .slider-container {
-    height:91vh;
-    width:99vw;
+    height:90vh;
+    width:98.5vw;
     overflow: hidden;
     position: relative;
     color: #fff;
@@ -46,29 +46,36 @@ body {
         border: solid;
     }
 
-    .slider-container .right-slides .logo{
+        .slider-container .right-slides .background {
             position: relative;
             height: 100%;
             width: 100%;
-            border: solid 0.5px;
-            align-content: center;
-            border: solid 0.5px;
-    }
-
-        .slider-container .right-slides .logo img {
-            width: 400px;
-            height: 300px;
-            object-fit: cover;
-            position: fixed;
-            left: 50px;
-            top: 50px;
+            background-color: black;
         }
 
+            .slider-container .right-slides .background .logo {
+                position: fixed;
+                bottom: 60px;
+                right: 30px;
+                width : 25%;
+                height : 25%;
+                border: solid 0.5px;
+                align-content: center;
+                border: solid 0.5px;
+            }
+
+                .slider-container .right-slides .background .logo img {
+                    width: 400px;
+                    height: 300px;
+                    object-fit: cover;
+                    position: fixed;
+                }
 
 
-        .slider-container .right-slides .game {
+
+        .slider-container .right-slides .background .game {
             position: fixed;
-            bottom: 30px;
+            bottom: 60px;
             right: 30px;
         }
 
