@@ -20,7 +20,7 @@ body {
 
 .slider-container {
     height:90vh;
-    width:98.5vw;
+    width:99vw;
     overflow: hidden;
     position: relative;
     color: #fff;
@@ -57,8 +57,8 @@ body {
                 position: fixed;
                 top: 30px;
                 left: 30px;
-                width : 25%;
-                height : 25%;
+                width : 35%;
+                height : 35%;
                 border: solid 0.5px;
                 align-content: center;
                 border: solid 0.5px;
@@ -67,11 +67,17 @@ body {
                 .slider-container .right-slides .background .logo img {
                     max-width: 80%;
                     height: auto;
-                    object-fit: cover;
+                    object-fit: contain;
                     position: fixed;
                     padding: 10px 5px 10px 5px;
                 }
 
+            .slider-container .right-slides .background .gameplay {
+                top: 30px;
+                right: 30px;
+                width: 35%;
+                height: 35%;
+            }
 
 
         .slider-container .right-slides .background .game {
