@@ -68,13 +68,9 @@ body {
                     padding: 5px 2px 5px 2px;
                     line-height: normal;
                     margin: 2px 2px 2px 2px;
+                    width: 100%;
                 }
 
-                .slider-container .right-slides .background .logo h2 {
-                    font-size: 2rem;
-                    padding-bottom: 10px;
-                    text-align: center;
-                }
 
             .slider-container .right-slides .background .gameplay {
                 position: absolute;
@@ -122,7 +118,7 @@ body {
 
 .left-slides p{
     font-size: 1rem;
-    padding: 10px 20px 10px 20px
+    padding: 10px 25px 10px 25px
 }
 
 
