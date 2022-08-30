@@ -85,9 +85,9 @@
 }
 
 .fade img{
-    object-fit: cover;
-    width: 200px;
-    height: 100px;
+    object-fit: contain;
+    width: 400px;
+    height: 300px;
 }
 
 @keyframes fade {
