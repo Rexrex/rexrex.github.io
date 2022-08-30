@@ -90,12 +90,22 @@ body {
     justify-content: center;
     align-items: center;
 
+
 }
 
 .left-slides h3 {
    font-size: 3rem;
-   margin-bottom: 100px;
+   margin-bottom: 50px;
   
+}
+
+.left-slides img {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    border: solid 0.5px white;
+    object-fit: cover;
+    max-width : 80%;
+    height: auto;
 }
 
 
