@@ -8,8 +8,7 @@
     height: 100%;
     position: absolute;
     margin: auto;
-    border: solid white;
-    align-content: center;
+    border: solid blue;
 }
 
 /* Hide the images by default */
