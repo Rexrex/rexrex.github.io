@@ -20,9 +20,12 @@ function changeSlide(btn) {
         currentSlide++;
         if (currentSlide > slidesLength - 1) {
             currentSlide = 0;
-            slideMin = 1;
-            slideIndex = 1
-            slideMax = slideMin + 3;
+
+            slideMax = mySlidesLength;
+            slideMin = slideMax - 3;
+            slideIndex = slideMin;
+            alert('Slide Index: ' + slideIndex + 'Slide min: ' + slideMin + 'Slide max: ' + slideMax + 'Slide length: ' + mySlidesLength);
+
         }
 
         else {
@@ -37,11 +40,11 @@ function changeSlide(btn) {
         if (currentSlide < 0) {
 
             currentSlide = slidesLength - 1;
-            
-            slideMax = mySlidesLength;
-            slideMin = slideMax - 3;
-            slideIndex = slideMin;
-            alert('Slide Index: ' + slideIndex + 'Slide min: ' + slideMin + 'Slide max: ' + slideMax + 'Slide length: ' + mySlidesLength);
+
+            slideMin = 1;
+            slideIndex = 1
+            slideMax = slideMin + 3;
+          
         }
         else {
             slideMin += 4;
