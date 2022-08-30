@@ -9,7 +9,7 @@
     position: relative;
     margin: auto;
     border: solid white;
-    align-items: center;
+    align-content: center;
 }
 
 /* Hide the images by default */
@@ -89,10 +89,10 @@
 
 .slideshow-container .fade img{
     object-fit: contain;
-    align-self: center;
     width: 65%;
     height: 65%;
     padding: 10px 10px 30px 10px;
+    border: solid white;
 }
 
 @keyframes fade {
