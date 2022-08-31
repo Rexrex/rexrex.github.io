@@ -2,15 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images",
-    "\\assets\\images\\games",
-    "\\assets\\images\\games\\angler",
+    "\\assets\\files",
     "\\assets\\images\\games\\fall",
     "\\assets\\images\\games\\rgb",
     "\\assets\\images\\games\\smashcart",
-    "\\sections",
-    "\\sections\\JS"
+    "\\assets\\images\\games\\stress",
+    "\\sections"
   ],
-  "SelectedNode": "\\assets\\images\\games\\timber",
+  "SelectedNode": "\\assets\\files",
   "PreviewInSolutionExplorer": false
 }
