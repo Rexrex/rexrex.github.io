@@ -19,12 +19,12 @@ body {
 
 
 .slider-container {
-    height:90vh;
+    height:93vh;
     width:100vw;
     overflow: hidden;
     position: relative;
     color: #fff;
-    padding: 0px;
+    padding: 10px;
 }
 
     .slider-container .left-slides {
@@ -48,7 +48,7 @@ body {
 
         .slider-container .right-slides .background {
             position: relative;
-            height: 100%;
+            height: 100.5%;
             width: 100%;
             background-color: black;
         }

@@ -4,8 +4,13 @@
     "\\assets",
     "\\assets\\images",
     "\\assets\\images\\games",
-    "\\css",
-    "\\_data"
+    "\\assets\\images\\games\\angler",
+    "\\assets\\images\\games\\fall",
+    "\\assets\\images\\games\\rgb",
+    "\\assets\\images\\games\\smashcart",
+    "\\sections",
+    "\\sections\\JS"
   ],
+  "SelectedNode": "\\assets\\images\\games\\timber",
   "PreviewInSolutionExplorer": false
 }
