@@ -189,6 +189,18 @@ a:visited {
     margin-bottom: 10px;
 }
 
+    #about a:link {
+        color: transparent;
+        background-color: white;
+        text-decoration: none;
+    }
+
+    #about a:visited {
+        color: transparent;
+        background-color: transparent;
+        text-decoration: none;
+    }    
+
 #pic {
     display: flex;
 }
@@ -248,18 +260,6 @@ a:visited {
         font-family: 'Open Sans';
         line-height: 1.6;
     }
-
-    #intro a:link {
-        color: transparent;
-        background-color: transparent;
-        text-decoration: none;
-    }
-
-    #intro a:visited {
-        color: transparent;
-        background-color: transparent;
-        text-decoration: none;
-    }    
 
 
 /* Portfolio Section*/
