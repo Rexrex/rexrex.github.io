@@ -87,9 +87,10 @@
 
 .slideshow-container .fade img {
     display: block;
-    object-fit: scale-down;
+    float:left;
     width: 600px;
     height: 500px;
+    background-size: cover;
     padding: 10px 10px 10px 10px;
     margin-left: auto;
     margin-right: auto;
