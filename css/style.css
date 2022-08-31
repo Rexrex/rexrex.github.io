@@ -33,24 +33,24 @@ a:visited {
     background-color: rgba(0, 0, 0, 0.5);
     position: sticky;
     top: 0;
+    text-align: center;
 }
 
     .navbar ul {
         display: flex;
         list-style: none;
-        margin: 20px auto;
+        margin: auto auto;
     }
 
         .navbar ul li {
             font-family: "Open Sans", sans-serif;
-            font-size: 1.3rem;
+            font-size: 1.2rem;
             font-weight: bold;
         }
 
             .navbar ul li a {
                 text-decoration: none;
                 color: white;
-                padding: 9px 25px;
                 transition: all .5s ease;
             }
 
@@ -70,7 +70,7 @@ a:visited {
 
 
                 .navbar ul li a, .dropbtn {
-                    display: inline-block;
+                    display: flex;
                     color: white;
                     text-align: center;
                     padding: 14px 16px;
@@ -79,7 +79,7 @@ a:visited {
 
 
         .navbar ul li.dropdown {
-            display: inline-block;
+            display: flex;
         }
 
 .dropdown-content {
