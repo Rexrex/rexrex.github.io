@@ -1,6 +1,7 @@
 let slideIndex = 1;
-let slideMin = 17;
-let slideMax = 20;
+
+let slideMax = document.getElementsByClassName("mySlides").length;
+let slideMin = slideMax - 3;
 showSlides(slideIndex);
 
 // Next/previous controls
