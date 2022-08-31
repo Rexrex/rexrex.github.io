@@ -78,10 +78,6 @@ a:visited {
                 }
 
 
-                    .navbar ul li a:hover, .dropdown:hover .dropbtn {
-                        background-color: red;
-                    }
-
         .navbar ul li.dropdown {
             display: inline-block;
         }
@@ -104,7 +100,7 @@ a:visited {
     }
 
         .dropdown-content a:hover {
-            background-color: #f1f1f1;
+            background-color: black;
         }
 
 .dropdown:hover .dropdown-content {
