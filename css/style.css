@@ -192,8 +192,8 @@ a:visited {
     width: 50px;
     text-align: center;
     border: solid;
-    background-color: transparent;
-    color: transparent;
+    background-color: white;
+    color: black;
 }
 
     /* Add a hover effect if you want */
@@ -209,18 +209,18 @@ a:visited {
 
 /* Twitter */
 .fa-twitter {
-    background: #55ACEE;
+    background-color: #55ACEE;
     color: white;
 }
 
 /* Twitter */
 .fa-github {
-    background: white;
+    background-color: white;
     color: black;
 }
 
 .ai ai-google-scholar {
-    background: white;
+    background-color: white;
     color: black;
     top: 2px;
 }
