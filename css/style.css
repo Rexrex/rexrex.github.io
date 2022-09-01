@@ -13,13 +13,13 @@ html {
     background-color: black;
 }
 
-.headings a:link {
+a:link {
     color: transparent;
     background-color: transparent;
     text-decoration: none;
 }
 
-.headings a:visited {
+a:visited {
     color: transparent;
     background-color: transparent;
     text-decoration: none;
