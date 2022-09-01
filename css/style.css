@@ -156,12 +156,12 @@ a:visited {
 
     .headings a:link {
         color: rgb(122 192 245);
-        background-color: transparent;
+        background-color: white;
     }
 
     .headings a:visited {
         color: rgb(62 150 216);
-        background-color: transparent;
+        background-color: white;
     }
 
 .subheadings {
@@ -225,9 +225,10 @@ a .fa-linkedin {
     color: white;
 }
 
- .fa-linkedin a{
+.fa-linkedin a{
     background-color: #007bb5;
     color: white;
+    background: black;
 }
 
 
