@@ -155,15 +155,13 @@ a:visited {
 }
 
     .headings a:link {
-        color: transparent;
+        color: rgb(122 192 245);
         background-color: transparent;
-        text-decoration: none;
     }
 
     .headings a:visited {
-        color: transparent;
+        color: rgb(62 150 216);
         background-color: transparent;
-        text-decoration: none;
     }
 
 .subheadings {
@@ -202,10 +200,7 @@ a:visited {
         background-color: white;
     }
 
-.fa-linkedin {
-    background: #007bb5;
-    color: white;
-}
+
 
 /* Twitter */
 .fa-twitter {
@@ -225,6 +220,10 @@ a:visited {
     top: 2px;
 }
 
+a .fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
 
 
 
