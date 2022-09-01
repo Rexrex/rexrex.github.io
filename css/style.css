@@ -184,7 +184,7 @@ a:visited {
     }
 
 /* Style all font awesome icons */
-.fa {
+.fa a:link{
     padding: 10px;
     font-size: 20px;
     width: 50px;
@@ -195,7 +195,7 @@ a:visited {
 }
 
     /* Add a hover effect if you want */
-    .fa:hover a{
+    .fa:hover a:link{
         opacity: 0.7;
         background-color: white;
     }
@@ -225,7 +225,7 @@ a .fa-linkedin {
     color: white;
 }
 
-.fa-linkedin a{
+.fa-linkedin a:link{
     background-color: #007bb5;
     color: white;
     background: black;
