@@ -3,7 +3,9 @@
     "",
     "\\assets",
     "\\assets\\files",
+    "\\css",
     "\\sections"
   ],
+  "SelectedNode": "\\css\\style.css",
   "PreviewInSolutionExplorer": false
 }

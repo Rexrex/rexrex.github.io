@@ -221,10 +221,14 @@ a:visited {
 }
 
 a .fa-linkedin {
-    background: #007bb5;
+    background-color: #007bb5;
     color: white;
 }
 
+.a .fa-linkedin {
+    background-color: #007bb5;
+    color: white;
+}
 
 
 
