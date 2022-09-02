@@ -14,14 +14,14 @@ html {
 }
 
 a:link {
-    color: transparent;
-    background-color: transparent;
+/*    color: transparent;
+    background-color: transparent;*/
     text-decoration: none;
 }
 
 a:visited {
-    color: transparent;
-    background-color: transparent;
+ /*   color: transparent;
+    background-color: transparent;*/
     text-decoration: none;
 }
 
@@ -220,7 +220,7 @@ a:visited {
     top: 2px;
 }
 
-a .fa-linkedin {
+.fa-linkedin {
     background-color: #007bb5;
     color: white;
 }
@@ -231,11 +231,7 @@ a .fa-linkedin {
     background: black;
 }
 
-a:link .fa-linkedin {
-    background-color: #007bb5;
-    color: white;
-    background: black;
-}
+
 
 
 
