@@ -231,6 +231,12 @@ a .fa-linkedin {
     background: black;
 }
 
+a:link .fa-linkedin {
+    background-color: #007bb5;
+    color: white;
+    background: black;
+}
+
 
 
 .btn {
@@ -280,7 +286,7 @@ a .fa-linkedin {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 10px;
+    padding: 30px;
     text-size-adjust: auto;
     width: 70%;
 }
@@ -296,14 +302,14 @@ a .fa-linkedin {
         transition: .6s ease;
         display: flex;
         flex-wrap: wrap;
-        margin: 10px;
+        margin: 20px;
         /*    flex-flow: row wrap;*/
         justify-content: center;
     }
 
         #intro .container img {
-            width: 220px;
-            height:80px;
+            width: 210px;
+            height:75px;
             object-fit: contain;
         }
 
