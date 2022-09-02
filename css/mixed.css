@@ -62,6 +62,7 @@ body {
         border: solid;
         font-family: 'Open Sans';
         line-height: 1.6;
+        color: white;
     }
 
         #virtual h3 a:link {
