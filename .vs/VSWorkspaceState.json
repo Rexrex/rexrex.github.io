@@ -3,8 +3,11 @@
     "",
     "\\assets",
     "\\assets\\files",
+    "\\assets\\images",
+    "\\assets\\images\\self",
     "\\css",
     "\\sections"
   ],
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
